@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, Welcome to Lei's (磊) page!"
+title: "Hi, Welcome to Lei's (磊) Page!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,9 @@ I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy o
 I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
 [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). 
 My PhD thesis topic is *Combined energy system design and operation by machine learning and optimization*.
-With the goal of achieving higher energy efficiency, lower economic cost and fewer environment impact, 
-I broaden my interest in various energy related areas, including energy system design, optimization 
-and automation via AI (ML). 
-I occasionally collaborate with researchers outside the center with interdisciplinary knowledge.
+With the goal of achieving higher energy efficiency, lower economic cost and fewer environment impact, I broaden 
+my interest in various energy related areas, including but not limited to energy system design, optimization and 
+automation via AI (ML). I occasionally collaborate with researchers outside the center with interdisciplinary knowledge.
 
 ---
 
@@ -64,10 +63,6 @@ Involved Projects
 
 
 ### Compact screw compressor design and test (finished, 15')
-
----
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/gif_evo.gif)
 
 ---
 
