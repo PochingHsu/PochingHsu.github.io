@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Lei Gao, a PhD student at Univeristy of Maryland, College Park, supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang). My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization techniques**.
+I am Lei Gao, a PhD student at Univeristy of Maryland, College Park. I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization techniques**.
 
-***
+---
 
 Research Interests
 ======
@@ -25,22 +25,19 @@ Robust energy system operation under uncertainty
 
 ### Disruptive innovations in HVAC
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment
-I was lucky to join in these projects when I was a junior PhD student, such as:.
-Thermoelastic cooling system testing (Summer, 16').
-Miniaturized heat exchanger design and test (Fall, 16').
-Low GWP refrigerant system testing (Spring, 17').
-Variable refrigerant flow system test (Summer, 17').
-Thermal powered desalination system design (Fall, 17').
-
+I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
+Thermoelastic cooling system testing (Summer, 16')<br> 
+Miniaturized heat exchanger design and test (Fall, 16')<br> 
+Low GWP refrigerant system testing (Spring, 17')<br> 
+Variable refrigerant flow system test (Summer, 17')<br> 
+Thermal powered desalination system design (Fall, 17')<br> 
+---
 Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+- Ph.D. ME, Univerisyt of Maryland, College Park, USA, 2021 (expected)
+- M.S.  ME, Xi'an Jiaotong University, Xi'an, CHINA, 2016
+- B.E.  ME, Xi'an Jiaotong University, Xi'an, CHINA, 2013
+---
 Involved Projects
 ======
 
@@ -65,4 +62,4 @@ Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
-### <font face='Papyrus'>Edited on Dec 19 2020 by Lei Gao</font>
+######  <font face='Papyrus'>Edited on Dec 19 2020 by Lei Gao</font>
