@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am Lei Gao, a PhD student at Univeristy of Maryland, College Park, supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang). My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization techniques**.
+
 ***
 
 Research Interests
@@ -24,12 +25,12 @@ Robust energy system operation under uncertainty
 
 ### Disruptive innovations in HVAC
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment
-I was lucky to join in these projects when I was a junior PhD student, such as:
-Thermoelastic cooling system testing (Summer, 16')
-Miniaturized heat exchanger design and test (Fall, 16')
-Low GWP refrigerant system testing (Spring, 17')
-Variable refrigerant flow system test (Summer, 17')
-Thermal powered desalination system design (Fall, 17')
+I was lucky to join in these projects when I was a junior PhD student, such as:.
+Thermoelastic cooling system testing (Summer, 16').
+Miniaturized heat exchanger design and test (Fall, 16').
+Low GWP refrigerant system testing (Spring, 17').
+Variable refrigerant flow system test (Summer, 17').
+Thermal powered desalination system design (Fall, 17').
 
 Education
 ======
