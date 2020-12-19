@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Lei Gao"
   avatar           : "head.png"
-  bio              : "Ph.D. 21', -ME, UMD, USA
-                      M.S. 16', B.E. 13', -ME, XJTU, CHINA"
+  bio              : "Ph.D. 21', ME, UMD,  USA
+                      M.S.  16', ME, XJTU, CHINA
+                      B.E.  13', ME, XJTU, CHINA"
   location         : "MD, USA"
   employer         : "https://ceee.umd.edu/"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SISC3cIAAAAJ&hl=en"
   email            : "leigao@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
