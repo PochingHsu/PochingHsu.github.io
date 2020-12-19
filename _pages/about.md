@@ -50,19 +50,22 @@ Education
 
 Involved Projects
 ======
-### Microgrid system design & optimization (in active)
+### Microgrid system design & optimization (in active, independent)
 
 
-### Machine learning for flow boiling  (in active)
+### Machine learning for flow boiling  
+(in active, collaborate with NIST researcher [Dr. Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en))
 
 
-### Applying tweets for early warning of Covid19  (in active)
+### Applying tweets for early warning of Covid-19  
+(in active, collaborate with UMD PhD student from Civil [Lingyao Li](https://scholar.google.com/citations?user=gpky5QgAAAAJ&hl=en))
 
 
-### Low GWP refrigerant system test (finished, 17')
+### Low GWP refrigerant system test 
+(finished, 17', collaborate with UMD PhD student [Dr. Zhiwei Huang](https://www.linkedin.com/in/joyhuang91/))
 
 
-### Compact screw compressor design and test (finished, 15')
+### Compact screw compressor design and test (finished, 15', independent)
 
 ---
 
@@ -82,7 +85,7 @@ Publications
 
 ### Under review
 - Predicting multitask for multiple types of buildings by two deep learning models. 
-  **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang*, submitted to *Applied Energy* on 2020.09.29
+  **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang+, submitted to *Applied Energy* on 2020.09.29
 
 
 ---
