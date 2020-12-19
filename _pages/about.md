@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization techniques**.
+I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
+I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). 
+My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization**.
 
 ---
 
@@ -24,7 +26,7 @@ A bottom-up optimization design framework is developed for energy conversion sys
 Robust energy system operation under uncertainty
 
 ### Disruptive innovations in HVAC
-In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment
+In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
 Thermoelastic cooling system testing (Summer, 16')<br> 
 Miniaturized heat exchanger design and test (Fall, 16')<br> 
@@ -63,7 +65,7 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/gif_evo.gif)
 
 
 ######  <font face='Papyrus'>Edited on Dec 19, 2020 by Lei Gao</font>
