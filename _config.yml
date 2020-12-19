@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lei Gao / Ph.D. Student"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Lei Gao"
 description              : &description "personal description"
 url                      : https://leigao-ceee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,17 +77,19 @@ analytics:
   google:
     tracking_id          :
 
-
+#"Energy System Design & Optimization, Machine Learning for Energy System, Combined System, Renewable Energy"
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Lei Gao"
   avatar           : "head.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  bio              : "Ph.D. (2021) - ME, UMD, USA
+                      M.S.  (2016), B.E. (2013)- ME, XJTU, CHINA
+                      "
+  location         : "MD, USA"
+  employer         : "CEEE"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=SISC3cIAAAAJ&hl=en"
+  email            : "leigao@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +98,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "leigao-ceee"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/lei-gao-3526ba148/"
+  orcid            : "https://orcid.org/0000-0003-2603-7787"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
