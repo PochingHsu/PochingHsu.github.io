@@ -9,18 +9,30 @@ redirect_from:
 ---
 
 I am Lei Gao, a PhD student at Univeristy of Maryland, College Park, supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang). My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization techniques**.
+***
 
-# Research Interests
-## Building energy consumption analysis
+Research Interests
+======
+### Building energy consumption analysis
+Energy consumption takes 40% of total energy consumption in US...
 
-## Thermal system design
+### Thermal system design
+A bottom-up optimization design framework is developed for energy conversion system...
 
-## Energy conversion system operation
+### Energy conversion system operation under uncertainty
+Robust energy system operation under uncertainty
 
-## Disruptive innovations in HVAC
+### Disruptive innovations in HVAC
+In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment
+I was lucky to join in these projects when I was a junior PhD student, such as:
+Thermoelastic cooling system testing (Summer, 16')
+Miniaturized heat exchanger design and test (Fall, 16')
+Low GWP refrigerant system testing (Spring, 17')
+Variable refrigerant flow system test (Summer, 17')
+Thermal powered desalination system design (Fall, 17')
 
-
-# Education
+Education
+======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
