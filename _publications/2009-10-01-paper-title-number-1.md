@@ -6,9 +6,10 @@ excerpt: 'This is a review paper towards CCHP'
 date: 2019-10-01
 venue: 'Renewable and Sustainable Energy Reviews'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1364032119305520'
-citation: ''
+citation: 'Gao, Lei, Yunho Hwang, and Tao Cao. "An overview of optimization technologies applied in 
+combined cooling, heating and power systems." Renewable and Sustainable Energy Reviews 114 (2019): 109344'
 ---
-##### Abstract
+#### Abstract
 Combined cooling, heating and power (CCHP) systems have the advantages of higher energy efficiency and lower economic 
 and environmental impacts (3E) than separated systems. Recently, optimization methods have been extensively applied in 
 CCHP system's design and control for further improving 3E performances of CCHP systems. 
