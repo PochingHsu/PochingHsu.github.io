@@ -1,8 +1,8 @@
 ---
 title: "Binary-objective optimization of latest low-GWP alternatives to R245fa for organic Rankine cycle application"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about thermo-economical comparison of latest alternatives to R245fa was implemented.'
+permalink: /publication/2010-11-24-paper-title-number-2
+excerpt: 'This paper is about thermo-economical comparison of latest alternatives to R245fa'
 date: 2020-11-24
 venue: 'Energy'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360544220324439'

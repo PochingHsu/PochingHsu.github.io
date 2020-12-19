@@ -81,6 +81,9 @@ Publications
 ---
 
 ### Under review
+- Predicting multitask for multiple types of buildings by two deep learning models. 
+  **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang*, submitted to *Applied Energy* on 2020.09.29
+
 
 ---
 
