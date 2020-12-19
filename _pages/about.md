@@ -50,22 +50,24 @@ Education
 
 Involved Projects
 ======
-### Microgrid system design & optimization (in active, independent)
+### Microgrid system design & optimization 
+(in active, independent) <br> 
 
 
 ### Machine learning for flow boiling  
-(in active, collaborate with NIST researcher [Dr. Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en))
+(in active, collaborate research associate from NIST [Dr. Lingnan Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br> 
 
 
 ### Applying tweets for early warning of Covid-19  
-(in active, collaborate with UMD PhD student from Civil [Lingyao Li](https://scholar.google.com/citations?user=gpky5QgAAAAJ&hl=en))
+(in active, collaborate with UMD PhD student from Civil Department [Lingyao Li](https://scholar.google.com/citations?user=gpky5QgAAAAJ&hl=en)) <br> 
 
 
 ### Low GWP refrigerant system test 
-(finished, 17', collaborate with UMD PhD student [Dr. Zhiwei Huang](https://www.linkedin.com/in/joyhuang91/))
+(completed, 17', collaborate with UMD PhD student from CEEE [Dr. Zhiwei Huang](https://www.linkedin.com/in/joyhuang91/)) <br> 
 
 
-### Compact screw compressor design and test (finished, 15', independent)
+### Compact screw compressor design and test 
+(completed, 15', independent) <br> 
 
 ---
 
