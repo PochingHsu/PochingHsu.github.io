@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Lei Gao, a PhD student at Univeristy of Maryland, College Park. I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization techniques**.
+I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is **Combined energy system design and operation by machine learning and optimization techniques**.
 
 ---
 
@@ -31,13 +31,17 @@ Miniaturized heat exchanger design and test (Fall, 16')<br>
 Low GWP refrigerant system testing (Spring, 17')<br> 
 Variable refrigerant flow system test (Summer, 17')<br> 
 Thermal powered desalination system design (Fall, 17')<br> 
+
 ---
+
 Education
 ======
-- Ph.D. ME, Univerisyt of Maryland, College Park, USA, 2021 (expected)
-- M.S.  ME, Xi'an Jiaotong University, Xi'an, CHINA, 2016
-- B.E.  ME, Xi'an Jiaotong University, Xi'an, CHINA, 2013
+- Ph.D. Univerisyt of Maryland, College Park, United States, 2021 (expected)
+- M.S.  Xi'an Jiaotong University, Xi'an, CHINA, 2016
+- B.S.  Xi'an Jiaotong University, Xi'an, CHINA, 2013
+
 ---
+
 Involved Projects
 ======
 
@@ -62,4 +66,4 @@ Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
-######  <font face='Papyrus'>Edited on Dec 19 2020 by Lei Gao</font>
+######  <font face='Papyrus'>Edited on Dec 19, 2020 by Lei Gao</font>
