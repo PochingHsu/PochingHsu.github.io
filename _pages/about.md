@@ -77,6 +77,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+---
 
 Publications
 ======
@@ -84,18 +85,15 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
----
 
 ### Conference paper
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
----
 
 ### Under review
 - Predicting multitask for multiple types of buildings by two deep learning models. 
   **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
-  
 ---
 
 Teaching
@@ -103,6 +101,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 ---
 
 Others
