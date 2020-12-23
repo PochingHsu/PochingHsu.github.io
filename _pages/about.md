@@ -60,7 +60,7 @@ Involved Projects
 (in active, collaborate with UMD PhD student from Civil Department [Lingyao Li](https://scholar.google.com/citations?user=gpky5QgAAAAJ&hl=en)) <br> 
 
 
-### Low GWP refrigerant system test 
+### Low GWP & flammable refrigerant system test 
 (completed, 17', independent) <br> 
 
 
@@ -85,7 +85,7 @@ Publications
 
 ### Under review
 - Predicting multitask for multiple types of buildings by two deep learning models. 
-  **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang+, submitted to *Applied Energy* on 2020.09.29
+  **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
 
 
 ---
