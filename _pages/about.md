@@ -34,9 +34,7 @@ In CEEE, various innovations are developed to improve how energy is served for h
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
 Thermoelastic cooling system test (Summer, 16')<br> 
 Miniaturized heat exchanger design and test (Fall, 16')<br> 
-Low GWP refrigerant system test (Spring, 17')<br> 
 Variable refrigerant flow system test (Summer, 17')<br> 
-Thermal powered desalination system design (Fall, 17')<br> 
 
 ---
 
@@ -55,7 +53,7 @@ Involved Projects
 
 
 ### Machine learning for flow boiling  
-(in active, collaborate research associate from NIST [Dr. Lingnan Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br> 
+(in active, collaborate with research associate from NIST [Dr. Lingnan Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br> 
 
 
 ### Applying tweets for early warning of Covid-19  
@@ -63,7 +61,7 @@ Involved Projects
 
 
 ### Low GWP refrigerant system test 
-(completed, 17', collaborate with UMD PhD student from CEEE [Dr. Zhiwei Huang](https://www.linkedin.com/in/joyhuang91/)) <br> 
+(completed, 17', independent) <br> 
 
 
 ### Compact screw compressor design and test 
