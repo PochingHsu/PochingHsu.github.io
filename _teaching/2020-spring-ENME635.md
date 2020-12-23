@@ -1,5 +1,5 @@
 ---
-title: "TA @ ENME635"
+title: "TA @ ENME635(S,20)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-spring-teaching-1

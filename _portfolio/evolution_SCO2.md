@@ -1,7 +1,7 @@
 ---
 title: "Evolution of S-CO2 Recompression Cycle"
 excerpt: "This is gif shows the evolution processes from primary four components configuration to a recompression 
-supercritical carbon dioxide power cycle<br/><img src='/images/evolution_of_S-CO2_recompression_cycle.gif'>"
+supercritical carbon dioxide power cycle"
 collection: portfolio
 ---
 
