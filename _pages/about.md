@@ -77,6 +77,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
 ---
 
 Publications
@@ -94,6 +95,7 @@ Publications
 ### Under review
 - Predicting multitask for multiple types of buildings by two deep learning models. 
   **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
+
 ---
 
 Teaching
@@ -107,5 +109,7 @@ Teaching
 Others
 ======
 - [Future Faculty Program Fellow (19')](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
+
+---
 
 ######  <font face='Papyrus'>Edited on Dec 19, 2020 by Lei Gao</font>
