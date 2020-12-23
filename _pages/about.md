@@ -40,9 +40,9 @@ Variable refrigerant flow system test (Summer, 17')<br>
 
 Education
 ======
-- Ph.D. Univerisyt of Maryland, College Park, United States, 2021 (expected)
-- M.S.  Xi'an Jiaotong University, Xi'an, CHINA, 2016
-- B.S.  Xi'an Jiaotong University, Xi'an, CHINA, 2013
+- Ph.D. Univerisyt of Maryland, College Park, United States (21', expected)
+- M.S.  Xi'an Jiaotong University, Xi'an, CHINA (16')
+- B.S.  Xi'an Jiaotong University, Xi'an, CHINA (13')
 
 ---
 
@@ -107,6 +107,6 @@ Teaching
 
 Others
 ======
-- [Future Faculty Program Fellow (19')](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br>
+- [Future Faculty Program Fellow (19')](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
 
 ######  <font face='Papyrus'>Edited on Dec 19, 2020 by Lei Gao</font>
