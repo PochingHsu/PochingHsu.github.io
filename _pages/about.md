@@ -69,6 +69,15 @@ Involved Projects
 
 ---
 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
 Publications
 ======
 ### Journal paper
@@ -86,8 +95,18 @@ Publications
 ### Under review
 - Predicting multitask for multiple types of buildings by two deep learning models. 
   **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
-
-
+  
 ---
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+---
+
+Others
+======
+- [Future Faculty Program Fellow (19')](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br>
 
 ######  <font face='Papyrus'>Edited on Dec 19, 2020 by Lei Gao</font>
