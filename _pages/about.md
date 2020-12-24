@@ -33,14 +33,13 @@ Robust energy system operation under uncertainty
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
 Thermoelastic cooling system test (Summer, 16')<br> 
-Miniaturized heat exchanger design and test (Fall, 16')<br> 
-Variable refrigerant flow system test (Summer, 17')<br> 
+Miniaturized & 3D heat exchanger design and test (Fall, 16')<br>
 
 ---
 
 Education
 ======
-- Ph.D. Univerisyt of Maryland, College Park, United States (21', expected)
+- Ph.D. University of Maryland, College Park, United States (21', expected)
 - M.S.  Xi'an Jiaotong University, Xi'an, CHINA (16')
 - B.S.  Xi'an Jiaotong University, Xi'an, CHINA (13')
 
@@ -56,10 +55,6 @@ Involved Projects
 (in active, collaborate with research associate from NIST [Dr. Lingnan Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br> 
 
 
-### Applying tweets for early warning of Covid-19  
-(in active, collaborate with UMD PhD student from Civil Department [Lingyao Li](https://scholar.google.com/citations?user=gpky5QgAAAAJ&hl=en)) <br> 
-
-
 ### Low GWP & flammable refrigerant system test 
 (completed, 17', independent) <br> 
 
@@ -71,13 +66,14 @@ Involved Projects
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming
+  * Python, Matlab, EES, Modelica, Fortran
+* Energy related software
+  * TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys
+* Machine Learning
+  * CNN, LSTM, XGBoost, SVM
+* Design related software
+  * AutoDesk, SolidWorks
 ---
 
 Publications
