@@ -20,16 +20,16 @@ automation via AI (ML). I occasionally collaborate with researchers outside the 
 
 Interests
 ======
-### Building energy analysis
+* **Building energy analysis**<br>
 Energy consumption takes 40% of total energy consumption in US...
 
-### Thermal system design
+* **Thermal system design**<br>
 A bottom-up optimization design framework is developed for energy conversion system...
 
-### Energy conversion system operation
+* **Energy conversion system operation**<br>
 Robust energy system operation under uncertainty
 
-### Disruptive innovations in HVAC
+* **Disruptive innovations in HVAC**<br>
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
 Thermoelastic cooling system test (Summer, 16')<br> 
@@ -47,33 +47,29 @@ Education
 
 Projects
 ======
-### Microgrid system design & optimization
+* **Microgrid system design & optimization** <br>
 (in active, independent) <br>
-
-### Machine learning for flow boiling
+ <br>
+* **Machine learning for flow boiling** <br>
 (in active, collaborate with research associate from NIST [Dr. Lingnan Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br>
-
-### Low GWP & flammable refrigerant system test
+ <br>
+* **Low GWP & flammable refrigerant system test** <br>
 (completed, 17', independent) <br>
-
-### Compact screw compressor design and test
+ <br>
+* **Compact screw compressor design and test** <br>
 (completed, 15', independent) <br>
-
+ <br>
 ---
 
 Skills
 ======
-### Programming
-  * Python, Matlab, EES, Modelica, Fortran
-
-### Energy related software
-  * TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys
-
-### Machine Learning
-  * CNN, LSTM, XGBoost, SVM
-
-### Design related software
-  * AutoDesk, SolidWorks
+* **Programming**: Python, Matlab, EES, Modelica, Fortran <br>
+<br>
+* **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys <br>
+<br>
+* **Machine Learning**: CNN, LSTM, XGBoost, SVM <br>
+<br>
+* **Design related software**: AutoDesk, SolidWorks
 
 ---
 
