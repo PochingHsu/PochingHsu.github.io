@@ -59,6 +59,7 @@ Projects
 * **Compact screw compressor design and test** <br>
 (completed, 15', independent) <br>
  <br>
+  
 ---
 
 Skills
@@ -75,12 +76,10 @@ Skills
 
 Publications
 ======
-### Journal paper
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-### Conference paper
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
