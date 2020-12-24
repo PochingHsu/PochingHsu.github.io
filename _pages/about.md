@@ -65,11 +65,11 @@ Projects
 Skills
 ======
 * **Programming**: Python, Matlab, EES, Modelica, Fortran <br>
-<br>
+
 * **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys <br>
-<br>
+
 * **Machine Learning**: CNN, LSTM, XGBoost, SVM <br>
-<br>
+
 * **Design related software**: AutoDesk, SolidWorks
 
 ---
@@ -100,7 +100,7 @@ Teaching
 
 Others
 ======
-- [Future Faculty Program Fellow (19')](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
+- [**Future Faculty Program Fellow (19')**](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
 
 ---
 
