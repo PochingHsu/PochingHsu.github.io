@@ -20,20 +20,20 @@ automation via AI (ML). I occasionally collaborate with researchers outside the 
 
 Interests
 ======
-* **Building energy analysis**<br>
+* **Building energy analysis**
 Energy consumption takes 40% of total energy consumption in US...
 
-* **Thermal system design**<br>
+* **Thermal system design**
 A bottom-up optimization design framework is developed for energy conversion system...
 
-* **Energy conversion system operation**<br>
+* **Energy conversion system operation**
 Robust energy system operation under uncertainty
 
-* **Disruptive innovations in HVAC**<br>
+* **Disruptive innovations in HVAC**
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
-Thermoelastic cooling system test (Summer, 16')<br> 
-Miniaturized & 3D heat exchanger design and test (Fall, 16')<br>
+    * Thermoelastic cooling system test (Summer, 16')<br> 
+    * Miniaturized & 3D heat exchanger design and test (Fall, 16')<br>
 
 ---
 
