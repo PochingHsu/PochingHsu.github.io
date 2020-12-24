@@ -18,7 +18,7 @@ automation via AI (ML). I occasionally collaborate with researchers outside the 
 
 ---
 
-Research Interests
+Interests
 ======
 ### Building energy analysis
 Energy consumption takes 40% of total energy consumption in US...
@@ -45,48 +45,48 @@ Education
 
 ---
 
-Involved Projects
+Projects
 ======
-### **Microgrid system design & optimization**
+### Microgrid system design & optimization
 (in active, independent) <br>
 
-### **Machine learning for flow boiling**
+### Machine learning for flow boiling
 (in active, collaborate with research associate from NIST [Dr. Lingnan Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br>
 
-### **Low GWP & flammable refrigerant system test** 
+### Low GWP & flammable refrigerant system test
 (completed, 17', independent) <br>
 
-### **Compact screw compressor design and test**
+### Compact screw compressor design and test
 (completed, 15', independent) <br>
 
 ---
 
 Skills
 ======
-### **Programming**
+### Programming
   * Python, Matlab, EES, Modelica, Fortran
-### **Energy related software**
+### Energy related software
   * TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys
-### **Machine Learning**
+### Machine Learning
   * CNN, LSTM, XGBoost, SVM
-### **Design related software**
+### Design related software
   * AutoDesk, SolidWorks
 
 ---
 
 Publications
 ======
-### **Journal paper**
+### Journal paper
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-### **Conference paper**
+### Conference paper
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-### **Under review**
+### Under review
 - Predicting multitask for multiple types of buildings by two deep learning models. 
   **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
 
