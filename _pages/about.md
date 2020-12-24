@@ -64,12 +64,9 @@ Projects
 
 Skills
 ======
-* **Programming**: Python, Matlab, EES, Modelica, Fortran <br>
-
-* **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys <br>
-
-* **Machine Learning**: CNN, LSTM, XGBoost, SVM <br>
-
+* **Programming**: Python, Matlab, EES, Modelica, Fortran
+* **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys
+* **Machine Learning**: CNN, LSTM, XGBoost, SVM
 * **Design related software**: AutoDesk, SolidWorks
 
 ---
