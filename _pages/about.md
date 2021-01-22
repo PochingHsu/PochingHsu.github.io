@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
-I'm supervised by <a href=https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher>Dr. Radermacher</a> and 
-<a href=https://enme.umd.edu/clark/faculty/549/Yunho-Hwang>Dr. Hwang</a> @ <a href=https://ceee.umd.edu/>CEEE</a>. 
+I'm supervised by <a href="https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher">Dr. Radermacher</a> and 
+<a href="https://enme.umd.edu/clark/faculty/549/Yunho-Hwang">Dr. Hwang</a> @ <a href=https://ceee.umd.edu/>CEEE</a>. 
 My PhD thesis topic is *Combined energy system optimum design and operation under uncertainty*.
 With the goal of achieving higher Energy efficiency, lower Economic cost and fewer Environment impact without losing 
 robustness (3E1R), I broaden my interest in various energy related areas, including but not limited to energy demand 
 analysis, energy system optimum design, and automation via optimization & ML. I occasionally collaborate with researchers 
 with interdisciplinary knowledge outside the center. </div>
-
+<a href="https://your-site.com">Your link</a>
 ---
 
 Interests
@@ -29,7 +29,7 @@ With this framework, we are trying to realize end2end design, leverage more adva
 enable multiple objective optimization. The best thermal system considers the constraints of heat source, sink, 
 component constrains. Contrary to conventional design stream with classic or expert recommended configuration. 
 This framework starts with a comprehensive configuration optimization framework (COF) based on graph knowledge. 
-Here is an example of COF framework applied for <a href=https://leigao-ceee.github.io/portfolio/evolution_SCO2/>
+Here is an example of COF framework applied for <a href="https://leigao-ceee.github.io/portfolio/evolution_SCO2/">
 supercritical CO2 power cycle</a>. The COF is under intensively developed for more case studies. </div>
 
 * **System operation with uncertainty** <br>
