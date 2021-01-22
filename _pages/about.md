@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
+<div style="text-align: justify"> I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
 I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
 [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). 
 My PhD thesis topic is *Combined energy system optimum design and operation under uncertainty*.
 With the goal of achieving higher Energy efficiency, lower Economic cost and fewer Environment impact without losing 
-robustness(3E1R) , I broaden my interest in various energy related areas, including but not limited to energy demand 
+robustness (3E1R), I broaden my interest in various energy related areas, including but not limited to energy demand 
 analysis, energy system optimum design, and automation via optimization & ML. I occasionally collaborate with researchers 
-with interdisciplinary knowledge outside the center.
+with interdisciplinary knowledge outside the center. </div>
 
 ---
 
@@ -33,8 +33,8 @@ configuration optimization framework (COF) based on graph knowledge. Here is an 
 [supercritical CO2 power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). The COF is under intensively 
 developed for more case studies.
 
-* **Energy conversion system operation** <br>
-Robust energy system operation under uncertainty
+* **System operation with uncertainty** <br>
+Uncertainty issue persists around energy systems, with more and Robust energy system operation under uncertainty
 
 * **Disruptive innovations in HVAC** <br>
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
@@ -72,7 +72,7 @@ Skills
 ======
 * **Programming language**: Python, Matlab, EES, Modelica
 * **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB
-* **Machine Learning model**: seq2seq, CNN, LSTM, XGBoost, SVM
+* **Machine Learning model**: deepGPR (learning), seq2seq, CNN, LSTM, XGBoost, SVM, GPR
 * **Design related software**: AutoDesk, SolidWorks
 
 ---
