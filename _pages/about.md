@@ -25,10 +25,10 @@ Interests
 As the premise of design and operation for energy systems, demand prediction requires robust, effective and 
 precise enough tool to evaluate and make plans. My interest within energy demand analysis ranges from national scale
 to single buildings. Considering building sector takes stable 40% of total energy consumption from 
-the [first figure](https://leigao-ceee.github.io/portfolio/Energy_Demand_Analysis/), building energy consumption would 
+the [first figure](https://leigao-ceee.github.io/portfolio/energy_demand_analysis/), building energy consumption would 
 be an appropriate cutting point. On contrary to physical model,data driven method (like machine learning) 
 implicitly extracts features from data. These techniques have advantages of robustness, flexibility, 
-and rapidity when applying for prediction tasks. The [second figure](https://leigao-ceee.github.io/portfolio/Energy_Demand_Analysis/) shows the research focus on 
+and rapidity when applying for prediction tasks. The [second figure](https://leigao-ceee.github.io/portfolio/energy_demand_analysis/) shows the research focus on 
 ML based building energy prediction. Right now, I'm trying to implement not only advanced deep learning model for 
 prediction but also trying to interpret performance model by model.
 
