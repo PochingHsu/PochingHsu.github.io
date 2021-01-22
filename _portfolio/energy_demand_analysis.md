@@ -1,6 +1,6 @@
 ---
-title: "Energy demand analysis"
-excerpt: "Here we are trying to show the big picture of energy consumption, and the researh work by of data driven method 
+title: "Energy Demand Analysis"
+excerpt: "Here we are trying to show the big picture of energy consumption, and the research work by of data driven method 
 for energy prediction."
 collection: portfolio
 ---

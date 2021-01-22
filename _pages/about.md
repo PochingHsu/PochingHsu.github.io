@@ -12,9 +12,9 @@ I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy o
 I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
 [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is 
 *Combined energy system optimum design and operation under uncertainty*. 
-With the goal of achieving higher Energy efficiency, lower Economic cost and fewer Environment impact without losing 
-robustness (E<sup>3</sup>R), I broaden my interest in various energy related areas, including but not limited to energy demand 
-analysis, energy system optimum design, and automation via optimization & ML. I occasionally collaborate with researchers 
+With the goal of achieving higher **E**nergy efficiency, lower **E**conomic cost and fewer **E**nvironment impact without losing 
+**R**obustness (*E<sup>3</sup>R*), I broaden my interest in various energy related areas, including but not limited to energy demand 
+analysis, energy system optimum design, and automation via optimization & machine learning. I occasionally collaborate with researchers 
 with interdisciplinary knowledge outside the center.
 
 ---
@@ -22,20 +22,30 @@ with interdisciplinary knowledge outside the center.
 Interests
 ======
 * **Energy demand analysis** <br>
-Energy demand from national to building scale consumption takes 40% of total energy consumption in US...
+As the premise of design and operation for energy systems, demand prediction requires robust, effective and 
+precise enough tool to evaluate and make plans. My interest within energy demand analysis ranges from national scale
+to single buildings. Considering building sector takes stable 40% of total energy consumption from 
+the [first figure](https://leigao-ceee.github.io/portfolio/Energy_Demand_Analysis/), building energy consumption would 
+be an appropriate cutting point. On contrary to physical model,data driven method (like machine learning) 
+implicitly extracts features from data. These techniques have advantages of robustness, flexibility, 
+and rapidity when applying for prediction tasks. The [second figure](https://leigao-ceee.github.io/portfolio/Energy_Demand_Analysis/) shows the research focus on 
+ML based building energy prediction. Right now, I'm trying to implement not only advanced deep learning model for 
+prediction but also trying to interpret performance model by model.
 
+  
 * **Thermal system optimum design** <br>
 A bottom-up optimization design framework is developed for thermal system optimization. 
-With this framework, we are trying to realize end2end design, leverage more advanced cycles in terms of E<sup>3</sup>R 
+With this framework, we are trying to realize end2end design, leverage more advanced cycles in terms of *E<sup>3</sup>R* 
 and enable multiple objective optimization. The best thermal system considers the constraints of heat source, sink, 
 component constrains. Contrary to conventional design stream with classic or expert recommended configuration. 
-This framework starts with a comprehensive configuration optimization framework (COF) based on graph knowledge. 
-Here is an example of COF framework applied for
+This framework starts with a comprehensive configuration optimization framework (*COF*) based on graph knowledge. 
+Here is an example of *COF* framework applied for
 [supercritical CO<sub>2</sub> power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
-The COF is under intensively developed for more case studies.
+The *COF* is under intensively developed for more case studies.
 
 * **System operation with uncertainty** <br>
-Uncertainty issue persists around energy systems, with more and Robust energy system operation under uncertainty
+Uncertainty issue persists around energy systems, instead of getting more accurate prediction capability, 
+the more realistic strategy is to operate system with uncertainty information...
 
 * **Disruptive innovations in HVAC area** <br>
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
