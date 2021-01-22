@@ -22,17 +22,17 @@ with interdisciplinary knowledge outside the center.
 Interests
 ======
 * **Energy demand analysis** <br>
-As the premise of design and operation for energy systems, demand prediction requires robust, effective and 
-precise enough tool to evaluate and make plans. My interest within energy demand analysis ranges from national scale
-to single buildings. Considering building sector takes stable 40% of total energy consumption from 
+As the premise of design and operation for energy systems, a robust, effective and precise enough demand prediction tool
+is the critical base of following decision-making. My interest within energy demand analysis ranges from nationwide
+to single building scale and hourly to annually granularity. Considering building sector takes a stable 40% share of total energy consumption from 
 the [first figure](https://leigao-ceee.github.io/portfolio/energy_demand_analysis/), building energy consumption would 
-be an appropriate cutting point. On contrary to physical model,data driven method (like machine learning) 
-implicitly extracts features from data. These techniques have advantages of robustness, flexibility, 
+be an appropriate cutting point. Specifically, on contrary to physical model, data driven method (like machine learning) 
+implicitly extracts features from data. The techniques in ML area have advantages of robustness, flexibility, 
 and rapidity when applying for prediction tasks. The [second figure](https://leigao-ceee.github.io/portfolio/energy_demand_analysis/) 
-shows the research focus on ML based building energy prediction. Right now, 
+shows the research trend focuses on ML based building energy prediction. Right now, 
 I'm trying to implement not only advanced deep learning model for prediction but also trying to interpret performance model by model.
 
-  
+
 * **Thermal system optimum design** <br>
 A bottom-up optimization design framework is developed for thermal system optimization. 
 With this framework, we are trying to realize end2end design, leverage more advanced cycles in terms of *E<sup>3</sup>R* 
@@ -42,7 +42,7 @@ This framework starts with a comprehensive configuration optimization framework 
 Here is an example of *COF* applied for [supercritical CO<sub>2</sub> power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
 The *COF* is under intensively developed for more case studies.
 
-* **System operation with uncertainty** <br>
+* **System operation under uncertainty** <br>
 Uncertainty issue persists around energy systems, instead of getting more accurate prediction capability, 
 the more realistic strategy is to operate system with uncertainty information...
 
@@ -103,7 +103,7 @@ Publications
 
 ---
 
-Teaching
+TAs
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
