@@ -22,7 +22,7 @@ with interdisciplinary knowledge outside the center.
 Interests
 ======
 * **Energy demand analysis** <br>
-Energy consumption takes 40% of total energy consumption in US...
+Energy demand from national to building scale consumption takes 40% of total energy consumption in US...
 
 * **Thermal system optimum design** <br>
 A bottom-up optimization design framework is developed for thermal system optimization. 
@@ -31,13 +31,13 @@ enable multiple objective optimization. The best thermal system considers the co
 component constrains. Contrary to conventional design stream with classic or expert recommended configuration. 
 This framework starts with a comprehensive configuration optimization framework (COF) based on graph knowledge. 
 Here is an example of COF framework applied for
-[supercritical CO2 power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
+[supercritical CO_2 power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
 The COF is under intensively developed for more case studies.
 
 * **System operation with uncertainty** <br>
 Uncertainty issue persists around energy systems, with more and Robust energy system operation under uncertainty
 
-* **Disruptive innovations in HVAC** <br>
+* **Disruptive innovations in HVAC area** <br>
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
     * Thermoelastic cooling system test (participated in summer 16')<br> 
