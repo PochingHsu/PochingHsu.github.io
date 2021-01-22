@@ -11,20 +11,27 @@ redirect_from:
 I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
 I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
 [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). 
-My PhD thesis topic is *Combined energy system design and operation by machine learning and optimization*.
-With the goal of achieving higher energy efficiency, lower economic cost and fewer environment impact, I broaden 
-my interest in various energy related areas, including but not limited to energy system design, optimization and 
-automation via AI (ML). I occasionally collaborate with researchers outside the center with interdisciplinary knowledge.
+My PhD thesis topic is *Combined energy system optimum design and operation under uncertainty*.
+With the goal of achieving higher Energy efficiency, lower Economic cost and fewer Environment impact without losing 
+robustness(3E1R) , I broaden my interest in various energy related areas, including but not limited to energy demand 
+analysis, energy system optimum design, and automation via optimization & ML. I occasionally collaborate with researchers 
+with interdisciplinary knowledge outside the center.
 
 ---
 
 Interests
 ======
-* **Building energy analysis** <br>
+* **Energy demand analysis** <br>
 Energy consumption takes 40% of total energy consumption in US...
 
-* **Thermal system design** <br>
-A bottom-up optimization design framework is developed for energy conversion system...
+* **Thermal system optimum design** <br>
+A bottom-up optimization design framework is developed for thermal system optimization. With this framework, we 
+are trying to realize end2end design, leverage more advanced cycles in terms of 3E1R and enable multiple objective 
+optimization. The best thermal system considers the constraints of heat source, sink, component constrains. Contrary to 
+conventional design stream with classic or expert recommended configuration, This framework starts with a comprehensive
+configuration optimization framework (COF) based on graph knowledge. Here is an example of COF framework applied for 
+[supercritical CO2 power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). The COF is under intensively 
+developed for more case studies.
 
 * **Energy conversion system operation** <br>
 Robust energy system operation under uncertainty
@@ -32,16 +39,16 @@ Robust energy system operation under uncertainty
 * **Disruptive innovations in HVAC** <br>
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
-    * Thermoelastic cooling system test (Summer, 16')<br> 
-    * Miniaturized & 3D heat exchanger design and test (Fall, 16')<br>
+    * Thermoelastic cooling system test (participated in summer 16')<br> 
+    * Miniaturized & 3D heat exchanger design and test (participated from fall 16' to spring 17')<br>
 
 ---
 
 Education
 ======
 - Ph.D. University of Maryland, College Park, United States (21', expected)
-- M.S.  Xi'an Jiaotong University, Xi'an, CHINA (16')
-- B.S.  Xi'an Jiaotong University, Xi'an, CHINA (13')
+- M.S.  Xi'an Jiaotong University, Xi'an, China (16')
+- B.S.  Xi'an Jiaotong University, Xi'an, China (13')
 
 ---
 
@@ -63,9 +70,9 @@ Projects
 
 Skills
 ======
-* **Programming**: Python, Matlab, EES, Modelica, Fortran
-* **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB, Ansys
-* **Machine Learning**: CNN, LSTM, XGBoost, SVM
+* **Programming language**: Python, Matlab, EES, Modelica
+* **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB
+* **Machine Learning model**: seq2seq, CNN, LSTM, XGBoost, SVM
 * **Design related software**: AutoDesk, SolidWorks
 
 ---
@@ -100,4 +107,4 @@ Others
 
 ---
 
-######  <font face='Papyrus'>Edited on Dec 19, 2020 by Lei Gao</font>
+######  <font face='Papyrus'>Edited on Jan 19, 2021 by Lei Gao</font>

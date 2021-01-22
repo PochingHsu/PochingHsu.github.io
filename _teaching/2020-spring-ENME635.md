@@ -1,5 +1,5 @@
 ---
-title: "ENME635: Energy Systems Analysis (Spring,20)"
+title: "ENME635: Energy Systems Analysis (Spring,20')"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-spring-teaching-1
