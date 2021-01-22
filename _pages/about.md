@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am Lei Gao, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
-I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and [Dr. Hwang]
-(https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is 
+I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
+[Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is 
 *Combined energy system optimum design and operation under uncertainty*. 
 With the goal of achieving higher Energy efficiency, lower Economic cost and fewer Environment impact without losing 
 robustness (3E1R), I broaden my interest in various energy related areas, including but not limited to energy demand 
