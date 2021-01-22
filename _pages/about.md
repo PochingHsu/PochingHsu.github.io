@@ -28,9 +28,9 @@ to single buildings. Considering building sector takes stable 40% of total energ
 the [first figure](https://leigao-ceee.github.io/portfolio/energy_demand_analysis/), building energy consumption would 
 be an appropriate cutting point. On contrary to physical model,data driven method (like machine learning) 
 implicitly extracts features from data. These techniques have advantages of robustness, flexibility, 
-and rapidity when applying for prediction tasks. The [second figure](https://leigao-ceee.github.io/portfolio/energy_demand_analysis/) shows the research focus on 
-ML based building energy prediction. Right now, I'm trying to implement not only advanced deep learning model for 
-prediction but also trying to interpret performance model by model.
+and rapidity when applying for prediction tasks. The [second figure](https://leigao-ceee.github.io/portfolio/energy_demand_analysis/) 
+shows the research focus on ML based building energy prediction. Right now, 
+I'm trying to implement not only advanced deep learning model for prediction but also trying to interpret performance model by model.
 
   
 * **Thermal system optimum design** <br>
