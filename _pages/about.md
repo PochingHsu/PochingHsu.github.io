@@ -113,9 +113,9 @@ TAs
 
 Others
 ======
+- **Membership**: *ASHRAE*
+- **Reviewer**: *Energy*, *Sustainable Cities and Society*, *International Journal of Energy Research*
 - [**Future Faculty Program Fellow (19')**](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
-- Membership: *ASHRAE*
-- Reviewer: *Energy*, *Sustainable Cities and Society*, *International Journal of Energy Research*
 
 ---
 
