@@ -39,8 +39,7 @@ With this framework, we are trying to realize end2end design, leverage more adva
 and enable multiple objective optimization. The best thermal system considers the constraints of heat source, sink, 
 component constrains. Contrary to conventional design stream with classic or expert recommended configuration. 
 This framework starts with a comprehensive configuration optimization framework (*COF*) based on graph knowledge. 
-Here is an example of *COF* framework applied for
-[supercritical CO<sub>2</sub> power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
+Here is an example of *COF* applied for [supercritical CO<sub>2</sub> power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
 The *COF* is under intensively developed for more case studies.
 
 * **System operation with uncertainty** <br>
