@@ -13,7 +13,7 @@ I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Rei
 [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is 
 *Combined energy system optimum design and operation under uncertainty*. 
 With the goal of achieving higher Energy efficiency, lower Economic cost and fewer Environment impact without losing 
-robustness (3E1R), I broaden my interest in various energy related areas, including but not limited to energy demand 
+robustness (E<sup>3</sup>R), I broaden my interest in various energy related areas, including but not limited to energy demand 
 analysis, energy system optimum design, and automation via optimization & ML. I occasionally collaborate with researchers 
 with interdisciplinary knowledge outside the center.
 
@@ -26,12 +26,12 @@ Energy demand from national to building scale consumption takes 40% of total ene
 
 * **Thermal system optimum design** <br>
 A bottom-up optimization design framework is developed for thermal system optimization. 
-With this framework, we are trying to realize end2end design, leverage more advanced cycles in terms of 3E1R and 
-enable multiple objective optimization. The best thermal system considers the constraints of heat source, sink, 
+With this framework, we are trying to realize end2end design, leverage more advanced cycles in terms of E<sup>3</sup>R 
+and enable multiple objective optimization. The best thermal system considers the constraints of heat source, sink, 
 component constrains. Contrary to conventional design stream with classic or expert recommended configuration. 
 This framework starts with a comprehensive configuration optimization framework (COF) based on graph knowledge. 
 Here is an example of COF framework applied for
-[supercritical CO_2 power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
+[supercritical CO<sub>2</sub> power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
 The COF is under intensively developed for more case studies.
 
 * **System operation with uncertainty** <br>
@@ -41,7 +41,7 @@ Uncertainty issue persists around energy systems, with more and Robust energy sy
 In CEEE, various innovations are developed to improve how energy is served for human beings with minimum destruction of environment.
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
     * Thermoelastic cooling system test (participated in summer 16')<br> 
-    * Miniaturized & 3D heat exchanger design and test (participated from fall 16' to spring 17')<br>
+    * 3D printed miniaturized heat exchanger design & test (participated from fall 16' to spring 17')<br>
 
 ---
 
