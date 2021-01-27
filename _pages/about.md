@@ -38,9 +38,9 @@ A bottom-up optimization design framework is developed for thermal system optimi
 With this framework, we are trying to realize end2end design, leverage more advanced cycles in terms of *E<sup>3</sup>R* 
 and enable multiple objective optimization. The best thermal system considers the constraints of heat source, sink, 
 component constrains. Contrary to conventional design stream with classic or expert recommended configuration. 
-This framework starts with a comprehensive configuration optimization framework (*COF*) based on graph knowledge. 
-Here is an example of *COF* applied for [supercritical CO<sub>2</sub> power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
-The *COF* is under intensively developed for more case studies.
+This framework starts with a comprehensive **C**onfiguration **O**ptimization **F**ramework for **E**nergy **E**fficiency & **E**conomics (*COFEEE*) based on graph knowledge. 
+Here is an example of *COFEEE* applied for [supercritical CO<sub>2</sub> power cycle](https://leigao-ceee.github.io/portfolio/evolution_SCO2/). 
+The *COFEEE* is under intensively developed for more complicated case studies.
 
 * **System operation under uncertainty** <br>
 Uncertainty issue persists around energy systems, instead of getting more accurate prediction capability, 
