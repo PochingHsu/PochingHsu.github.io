@@ -100,8 +100,6 @@ Publications
 ### Under review
 - Predicting multitask for multiple types of buildings by two deep learning models. 
   **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
-- Can Social Media Data Be Utilized to Enhance Early Warning: Retrospective Analysis of the U.S. Covid-19 Pandemic.
-  **Lingyao Li**, Lei Gao\*, Jiayan Zhou\*, Zihui Ma, David F. Choy, Molly A. Hall, submitted to *IEEE Access* on 2021.01.01
 - Graph-based Configuration Optimization for S-CO2 Power Generation Systems. 
   **Lei Gao**, Tao Cao, Yunho Hwang\*, submitted to *Energy Conversion and Management* on 2021.03.02
   
