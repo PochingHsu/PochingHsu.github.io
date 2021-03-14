@@ -102,7 +102,9 @@ Publications
   **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
 - Can Social Media Data Be Utilized to Enhance Early Warning: Retrospective Analysis of the U.S. Covid-19 Pandemic.
   **Lingyao Li**, Lei Gao\*, Jiayan Zhou\*, Zihui Ma, David F. Choy, Molly A. Hall, submitted to *IEEE Access* on 2021.01.01
-
+- Graph-based Configuration Optimization for S-CO2 Power Generation Systems. 
+  **Lei Gao**, Tao Cao, Yunho Hwang\*, submitted to *Energy Conversion and Management* on 2021.03.02
+  
 ---
 
 TAs
@@ -116,7 +118,7 @@ TAs
 Others
 ======
 - **Membership**: *ASHRAE*, [*Future Faculty Program Fellow (19')*](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
-- **Reviewer**: *Energy*, *Sustainable Cities and Society*, *International Journal of Energy Research*
+- **Reviewer**: *Energy*, *Sustainable Cities and Society*, *International Journal of Energy Research*, *Energy and AI*
 - [**Posts**](https://leigao-ceee.github.io/year-archive/): here is where I post my thoughts and ideas (under construction)
 
 ---
