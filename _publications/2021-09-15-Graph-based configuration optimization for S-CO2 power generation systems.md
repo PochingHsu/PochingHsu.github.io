@@ -1,9 +1,9 @@
 ---
 title: "Graph-based configuration optimization for S-CO2 power generation systems"
 collection: publications
-permalink: /publication/2010-11-24-paper-title-number-2
+permalink: /publication/2021-09-15-paper-title-number-3
 excerpt: 'This paper is about graph-based system representation with minimum thermodynamic knowledge configuration optimization for S-CO2 power generation systems'
-date: 2020-09-15
+date: 2021-09-15
 venue: 'Energy Conversion and Management'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0196890421006245'
 citation: 'Gao, Lei, et al. "Graph-based configuration optimization for S-CO2 power generation systems." 
