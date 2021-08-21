@@ -56,7 +56,7 @@ I was lucky to join in these projects when I was a junior PhD student, such as:<
 
 Education
 ======
-- Ph.D. University of Maryland, College Park, United States (21', expected)
+- Ph.D. University of Maryland, College Park, United States (22', expected)
 - M.S.  Xi'an Jiaotong University, Xi'an, China (16')
 - B.S.  Xi'an Jiaotong University, Xi'an, China (13')
 
@@ -98,10 +98,10 @@ Publications
   {% endfor %}</ul>
 
 ### Under review
-- Predicting multitask for multiple types of buildings by two deep learning models. 
-  **Lei Gao**, Tianyuan Liu, Tao Cao, Yunho Hwang\*, submitted to *Applied Energy* on 2020.09.29
-- Graph-based Configuration Optimization for S-CO2 Power Generation Systems. 
-  **Lei Gao**, Tao Cao, Yunho Hwang\*, submitted to *Energy Conversion and Management* on 2021.03.02
+- Robustness analysis of SCO2 power generation system with consideration of a wide range of configurations. 
+  **Lei Gao**, Tao Cao, Yunho Hwang\*, Reinhard Radermacher, submitted to *Energy* on 2021.05.20
+- A general model for flow boiling heat transfer in microfin tubes based on a new neural network architecture. 
+  Lingnan Lin\*, **Lei Gao**, Mark A. Kedzierski, Yunho Hwang, submitted to *International Journal of Heat and Mass Transfer* on 2021.03.02
   
 ---
 
@@ -121,4 +121,4 @@ Others
 
 ---
 
-######  <font face='Papyrus'>Edited on Jan 19, 2021 by Lei Gao</font>
+######  <font face='Papyrus'>Update on Aug 20, 2021</font>
