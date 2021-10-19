@@ -75,15 +75,14 @@ Projects
 
 * **Compact screw compressor design and test** <br>
 (completed, 15', independent) <br>
-  
+
 ---
 
 Skills
 ======
-* **Programming language**: Python, Matlab, EES, Modelica
-* **Energy related software**: TRNSYS, CoilDesigner, EnergyPlus, Dymola, BCVTB
-* **Machine Learning model**: deepGPR (learning), seq2seq, CNN, LSTM, XGBoost, SVM, GPR
-* **Design related software**: AutoDesk, SolidWorks
+* **Programming language**: Python, Matlab, EES, GAMS, Julia
+* **Software**: AutoCAD, SolidWorks, LabVIEW, TRNSYS, EnergyPlus, CoilDesigner, Ansys, BCVTB
+* **Machine Learning**: GNN, deepGPR, seq2seq, CNN, LSTM, XGBoost, SVM, GPR
 
 ---
 
@@ -115,8 +114,9 @@ TAs
 
 Others
 ======
-- **Membership**: *ASHRAE*, [*Future Faculty Program Fellow (19')*](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
-- **Reviewer**: *Energy*, *Sustainable Cities and Society*, *International Journal of Energy Research*, *Energy and AI*
+- **Membership**: *ASHRAE*, *Association of Energy Engineers student member*, [*Future Faculty Program Fellow (19')*](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
+- **Reviewer**: *Energy Conversion and Management*, *Energy*, *Sustainable Cities and Society*, *International Journal of Energy Research*, *Energy and AI*
+- **Certification**: *EPA Certified Universal Technician per Section 608 of Clean Air Act*
 - [**Posts**](https://leigao-ceee.github.io/year-archive/): here is where I post my thoughts and ideas (under construction)
 
 ---
