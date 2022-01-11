@@ -17,6 +17,7 @@ With the goal of achieving higher **E**nergy efficiency, lower **E**conomic cost
 analysis, energy system optimum design, and automation via optimization & machine learning. I occasionally collaborate with researchers 
 with interdisciplinary knowledge outside the center.
 
+<br/><img src='/images/microgrid.png'> <br/>
 ---
 
 Interests
