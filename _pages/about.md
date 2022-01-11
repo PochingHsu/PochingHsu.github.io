@@ -16,7 +16,7 @@ With the goal of achieving higher **E**nergy efficiency, lower **E**conomic cost
 **R**obustness (*E<sup>3</sup>R*), I broaden my interest in various energy related areas, including but not limited to energy demand 
 analysis, energy system optimum design, and automation via optimization & machine learning. I occasionally collaborate with researchers 
 with interdisciplinary knowledge outside the center. 
-<br/> <img src='/images/microgrid.jpg'> <br/>
+<br/><img src='/images/microgrid.jpg'> <br/>
 
 ---
 
