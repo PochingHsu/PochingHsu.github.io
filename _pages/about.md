@@ -99,7 +99,9 @@ Publications
 
 ### Under review
 - Stochastic dynamic optimal operation for combined cooling, heating and power system under uncertainty. 
-  **Lei Gao**, Yunho Hwang\*, Reinhard Radermacher, target *Energy Conversion and Management*
+  **Lei Gao**, Yunho Hwang\*, Reinhard Radermacher, *Energy Conversion and Management*
+- A comprehensive overview of configuration optimization for thermal energy conversion systems. 
+  **Lei Gao**, Yunho Hwang\*, Reinhard Radermacher, *Renewable and Sustainable Energy Review*
 - A general model for flow boiling heat transfer in microfin tubes based on a new neural network architecture. 
   Lingnan Lin\*, **Lei Gao**, Mark A. Kedzierski, Yunho Hwang, submitted to *International Journal of Heat and Mass Transfer* on 2021.03.02
   
