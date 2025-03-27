@@ -56,9 +56,9 @@ I was lucky to join in these projects when I was a junior PhD student, such as:<
 
 Education
 ======
-- Ph.D. University of Maryland, College Park, United States (22', expected)
-- M.S.  Xi'an Jiaotong University, Xi'an, China (16')
-- B.S.  Xi'an Jiaotong University, Xi'an, China (13')
+- Ph.D. University of Maryland, College Park, USA (2026, expected)
+- M.S.  National Taiwan University, Taipei City, Taiwan (2017)
+- B.S.  National Taipei University of Technology, Taipei City, Taiwan (2015)
 
 ---
 
@@ -103,7 +103,7 @@ Publications
   **Lei Gao**, Yunho Hwang\*, Reinhard Radermacher, *Renewable and Sustainable Energy Review*
 - A general model for flow boiling heat transfer in microfin tubes based on a new neural network architecture. 
   Lingnan Lin\*, **Lei Gao**, Mark A. Kedzierski, Yunho Hwang, submitted to *International Journal of Heat and Mass Transfer* on 2021.03.02
-  
+<!--  
 ---
 
 TAs
@@ -111,15 +111,13 @@ TAs
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 ---
 
 Others
 ======
-- **Membership**: *ASHRAE*, *Association of Energy Engineers student member*, [*Future Faculty Program Fellow (19')*](https://enme.umd.edu/news/story/lei-gao-admitted-into-the-future-faculty-program) <br>
-- **Reviewer**: *Applied Energy*, *Energy Conversion and Management*, *Energy*, *Sustainable Cities and Society*, *International Journal of Energy Research*, *Energy and AI*
+- **Membership**: *ASHRAE, Student Member*<br>
 - **Certification**: *EPA Certified Universal Technician per Section 608 of Clean Air Act*
-- [**Posts**](https://leigao-ceee.github.io/year-archive/): here is where I post my thoughts and ideas (under construction)
 
 ---
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=aaaaaa&w=300&t=tt&d=YVPAFaJ8_KACRHTyF3qwFncsB9R59KW72WctZq3KsII&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
