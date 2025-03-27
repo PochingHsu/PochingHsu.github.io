@@ -17,8 +17,7 @@ My research focuses on deep learning and machine learning modeling for HVAC syst
 
 <br/><img src='/images/Website (1).jpeg'> <br/>
 
----
-
+<!--
 Interests
 ======
 * **Energy demand analysis** <br>
@@ -51,7 +50,7 @@ In CEEE, various innovations are developed to improve how energy is served for h
 I was lucky to join in these projects when I was a junior PhD student, such as:<br> 
     * Thermoelastic cooling system test (participated in summer 16')<br> 
     * 3D printed miniaturized heat exchanger design & test (participated from fall 16' to spring 17')<br>
-
+-->
 ---
 
 Education
