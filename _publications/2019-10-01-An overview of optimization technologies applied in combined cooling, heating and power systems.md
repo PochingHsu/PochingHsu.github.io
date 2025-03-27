@@ -2,7 +2,7 @@
 title: "Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings"
 collection: publications
 permalink: /publication/2025-01-01-paper-title-number-1
-excerpt: 'This is a review paper towards CCHP'
+excerpt: 'This paper is about deep learning models for variable refrigerant flow (VRF) systems in buildings'
 date: 2025-01-01
 venue: 'International Journal of Refrigeration'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1364032119305520'
@@ -13,5 +13,6 @@ The optimized control of variable refrigerant flow (VRF) system requires an accu
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0140700724003591)
 
-Recommended citation: Gao, Lei, Yunho Hwang, and Tao Cao. "An overview of optimization technologies applied in combined cooling, 
+<!-- Recommended citation: Gao, Lei, Yunho Hwang, and Tao Cao. "An overview of optimization technologies applied in combined cooling, 
 heating and power systems." Renewable and Sustainable Energy Reviews 114 (2019): 109344.
+-->
