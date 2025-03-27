@@ -31,11 +31,13 @@ Projects
 ======
 * **VRF systems field testing & data-driven model development** <br>
 (in active, independent) <br>
-
-* **Performance impact evaluation of OCR and SLHX for low GWP refrigerant** <br>
+  - Developed an LSTM-based deep learning model for power consumption prediction of a VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT models.
+  - Applied Bayesian optimization for hyperparameter tuning of the data-driven model, achieving optimized hyperparameters in less time compared to the grid search method.
+  - Investigated the impact of input time steps and feature sets on model accuracy using statistical methods.
+* **Investigating air maldistribution influence on the performance of heat pumps** <br>
 (completed, 2024, independent) <br>
 
-* **Investigating air maldistribution influence on the performance of heat pumps** <br>
+* **Performance impact evaluation of OCR and SLHX for low GWP refrigerant** <br>
 (completed, 2024, independent) <br>
 
 * **A bi-cell proton exchange membrane fuel cell stack with a magnetically driven piezoelectric actuator** <br>
