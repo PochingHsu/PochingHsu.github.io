@@ -81,7 +81,7 @@ Projects
 Skills
 ======
 * **Programming language**: Python, Matlab, EES, C
-* **Software**: SolidWorks, LabVIEW, EnergyPlus, CoilDesigner, VapCyc, Flotherm, Ansys Icepak/Fluent
+* **Software**: SolidWorks, Creo, LabVIEW, EnergyPlus, CoilDesigner, VapCyc, Flotherm, Ansys Icepak/Fluent
 * **Machine Learning**: PyTorch, TensorFlow, Keras, Sklearn
 
 ---
