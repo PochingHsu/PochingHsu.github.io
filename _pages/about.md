@@ -64,17 +64,20 @@ Education
 
 Projects
 ======
-* **Microgrid system design & optimization** <br>
+* **VRF systems field testing & data-driven model development** <br>
 (in active, independent) <br>
 
-* **Machine learning for flow boiling** <br>
-(in active, collaborate with research associate from NIST [Dr. Lingnan Lin](https://scholar.google.com/citations?user=DPrW7bAAAAAJ&hl=en)) <br>
+* **Performance impact evaluation of OCR and SLHX for low GWP refrigerant** <br>
+(completed, 2024, independent) <br>
 
-* **Low GWP & flammable refrigerant system test** <br>
-(completed, 17', independent) <br>
+* **Investigating air maldistribution influence on the performance of heat pumps** <br>
+(completed, 2024, independent) <br>
 
-* **Compact screw compressor design and test** <br>
-(completed, 15', independent) <br>
+* **A Bi-cell Proton Exchange Membrane Fuel Cell Stack with a Magnetically Driven Piezoelectric Actuator** <br>
+(completed, 2017, independent) <br>
+
+* **Impinging Micro Channels of Dielectric Fluid for Chip Cooling** <br>
+(completed, 2015, independent) <br>
 
 ---
 
