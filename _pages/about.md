@@ -73,10 +73,10 @@ Projects
 * **Investigating air maldistribution influence on the performance of heat pumps** <br>
 (completed, 2024, independent) <br>
 
-* **A Bi-cell Proton Exchange Membrane Fuel Cell Stack with a Magnetically Driven Piezoelectric Actuator** <br>
+* **A bi-cell proton exchange membrane fuel cell stack with a magnetically driven piezoelectric actuator** <br>
 (completed, 2017, independent) <br>
 
-* **Impinging Micro Channels of Dielectric Fluid for Chip Cooling** <br>
+* **Impinging micro channels of dielectric fluid for chip cooling** <br>
 (completed, 2015, independent) <br>
 
 ---
