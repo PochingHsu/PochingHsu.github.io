@@ -47,6 +47,7 @@ Projects
 * **Impinging micro channels of dielectric fluid for chip cooling** <br>
 (completed, 2015, independent) <br>
   - Developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling, including CFD simulations to analyze flow fields of various jet orifice dimensions.
+
 ---
 
 Skills
