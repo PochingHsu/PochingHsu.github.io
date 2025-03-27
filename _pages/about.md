@@ -100,7 +100,12 @@ Publications
   **Po-Ching Hsu**, Lei Gao, Yunho Hwang\*, Reinhard Radermacher, *Energy & Buildings*
 
 ---
+Media Features
+======
+- Time Magazine, <em>"How AI Is Making Buildings More Energy-Efficient"</em> — December 11, 2024. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
+- Maryland Today, <em>"AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test"</em> — November 7, 2024. [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
 
+---
 Others
 ======
 - **Membership**: *ASHRAE, Student Member*<br>
