@@ -31,7 +31,7 @@ Projects
 ======
 * **VRF systems field testing & data-driven model development** <br>
 (in active, independent) <br>
-  - Developed an LSTM-based deep learning model for power consumption prediction of a VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT models.
+  - Developed LSTM-based deep learning model for power consumption prediction of VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT.
   - Applied Bayesian optimization for hyperparameter tuning of the data-driven model, achieving optimized hyperparameters in less time compared to the grid search method.
   - Investigated the impact of input time steps and feature sets on model accuracy using statistical methods.
 * **Investigating air maldistribution influence on the performance of heat pumps** <br>
@@ -39,7 +39,8 @@ Projects
 
 * **Performance impact evaluation of OCR and SLHX for low GWP refrigerant** <br>
 (completed, 2024, independent) <br>
-
+  - Examined the performance enhancement using a suction line heat exchanger (SLHX) in R454B systems through numerical and experimental analysis.
+  - Investigated the oil retention behavior of R454B systems through experimental analysis.
 * **A bi-cell proton exchange membrane fuel cell stack with a magnetically driven piezoelectric actuator** <br>
 (completed, 2017, independent) <br>
   - Developed a piezoelectric air-breathing pump for a PEM fuel cell stack, increasing power flux by 20%,
