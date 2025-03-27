@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lei Gao / Ph.D. Candidate"
+title                    : "Po-Ching Hsu / Ph.D. Student"
 title_separator          : "-"
-name                     : &name "Lei Gao"
+name                     : &name "Po-Ching Hsu"
 description              : &description "personal description"
 url                      : https://leigao-ceee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "leigao-ceee/leigao-ceee.github.io"
+repository               : "PochingHsu/PochingHsu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 #"Energy System Design & Optimization, Machine Learning for Energy System, Combined System, Renewable Energy"
 # Site Author
 author:
-  name             : "Lei Gao"
-  avatar           : "head.png"
+  name             : "Po-Ching Hsu"
+  avatar           : #"head.png"
   bio              : "Research Assistant"
                       #Ph.D. 2021, ME, UMCP, USA
                       #M.S.  2016, ME, XJTU, CHINA
@@ -89,9 +89,9 @@ author:
   location         : "UMD, USA"
   employer         : "CEEE"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=SISC3cIAAAAJ&hl=en"
-  email            : "leigao@umd.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=UphYXJkAAAAJ&hl=en"
+  email            : "pchsu@umd.edu"
+  researchgate     : "https://www.researchgate.net/profile/Po-Ching-Hsu"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,14 +99,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "leigao-ceee"
+  github           : "PochingHsu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lei-gao-ceee"
-  orcid            : "https://orcid.org/0000-0003-2603-7787"
+  linkedin         : "pochinghsu"
+  orcid            : "https://orcid.org/0009-0009-7523-4438"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
