@@ -107,5 +107,4 @@ Others
 - **Certification**: *EPA Certified Universal Technician per Section 608 of Clean Air Act*
 
 ---
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=aaaaaa&w=300&t=tt&d=YVPAFaJ8_KACRHTyF3qwFncsB9R59KW72WctZq3KsII&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-######  <font face='Papyrus'>Update on Aug 20, 2021</font>
+
