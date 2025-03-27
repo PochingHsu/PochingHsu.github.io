@@ -10,12 +10,11 @@ redirect_from:
 
 I am Po-Ching Hsu, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
 I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
-[Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is 
-*Field Testing and Next-Generation Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
-With the goal of achieving higher **E**nergy efficiency, lower **E**conomic cost and fewer **E**nvironment impact without losing 
-**R**obustness (*E<sup>3</sup>R*), I broaden my interest in various energy related areas, including but not limited to energy demand 
-analysis, energy system optimum design, and automation via optimization & machine learning. I occasionally collaborate with researchers 
-with interdisciplinary knowledge outside the center. 
+[Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
+<br/>
+<br/>
+My research focuses on low global warming potential (GWP) HVAC systems, variable refrigerant flow (VRF) systems, smart buildings, and data-driven modeling (ML/DL) for HVAC systems to enhance energy efficiency and sustainability. My PhD thesis topic is *Field Testing and Next-Generation Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
+
 <br/><img src='/images/microgrid.jpg'> <br/>
 
 ---
