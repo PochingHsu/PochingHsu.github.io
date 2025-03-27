@@ -92,23 +92,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!--  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
--->
 ### Under review
 - A review of the state-of-the-art data-driven modeling of building HVAC systems. 
   **Po-Ching Hsu**, Lei Gao, Yunho Hwang\*, Reinhard Radermacher, *Energy & Buildings*
 
-<!--  
----
-
-TAs
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
 ---
 
 Others
