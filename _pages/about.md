@@ -13,7 +13,7 @@ I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Rei
 [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
 <br/>
 <br/>
-My research focuses on deep learning and machine learning modeling for HVAC systems, smart building, variable refrigerant flow (VRF) systems. My PhD thesis topic is *Field Testing and Next-Generation Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
+My research focuses on deep learning and machine learning modeling for HVAC systems, smart building, variable refrigerant flow (VRF) systems. My PhD thesis topic is *Experimental Investigation and Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
 
 <br/><img src='/images/Website (1).jpeg'> <br/>
 
