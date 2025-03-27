@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, Welcome to Lei's (磊) Page!"
+title: "Hi, I'm Po-Ching!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Lei Gao, a PhD candidate at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
+I am Po-Ching Hsu, a PhD student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
 I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
 [Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [CEEE](https://ceee.umd.edu/). My PhD thesis topic is 
-*Optimum design and operation of combined cooling heating and power system  under uncertainty*. 
+*Field Testing and Next-Generation Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
 With the goal of achieving higher **E**nergy efficiency, lower **E**conomic cost and fewer **E**nvironment impact without losing 
 **R**obustness (*E<sup>3</sup>R*), I broaden my interest in various energy related areas, including but not limited to energy demand 
 analysis, energy system optimum design, and automation via optimization & machine learning. I occasionally collaborate with researchers 
