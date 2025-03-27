@@ -1,34 +1,17 @@
 ---
-title: "An overview of optimization technologies applied in combined cooling, heating and power systems"
+title: "Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings"
 collection: publications
-permalink: /publication/2019-10-01-paper-title-number-1
+permalink: /publication/2025-01-01-paper-title-number-1
 excerpt: 'This is a review paper towards CCHP'
-date: 2019-10-01
-venue: 'Renewable and Sustainable Energy Reviews'
+date: 2025-01-01
+venue: 'International Journal of Refrigeration'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1364032119305520'
-citation: 'Gao, Lei, Yunho Hwang, and Tao Cao. "An overview of optimization technologies applied in combined cooling, 
-heating and power systems." Renewable and Sustainable Energy Reviews 114 (2019): 109344.'
+citation: 'Po-Ching Hsu, Lei Gao, Yunho Hwang. "Comparative study of LSTM and ANN models for power consumption prediction of variable refrigerant flow (VRF) systems in buildings." International Journal of Refrigeration 169 (2025): Pages 55-68.'
 ---
 #### Abstract
-Combined cooling, heating and power (CCHP) systems have the advantages of higher energy efficiency and lower economic 
-and environmental impacts (3E) than separated systems. Recently, optimization methods have been extensively applied in 
-CCHP system's design and control for further improving 3E performances of CCHP systems. 
-However, a wide range of subsystems selection, nonlinear characteristics of subsystem models and uncertainty in 
-modeling results of CCHP systems cause challenges for successful implementation of optimization studies 
-at both design and control stage. This paper presents a systematic review of all aspects of optimization 
-for CCHP systems from problem formulation and algorithms selection to technical implementation. Genetic algorithm, 
-particle swarm optimization and differential evolution are the most common algorithms used in system optimum design 
-and control. Optimization works in design stage focus on optimization of energy source, prime mover, storage system, 
-energy demand and system configuration. Over 60% of renewable energy integrated CCHP system adopted solar energy. 
-More investigations are needed for small scale prime mover and economic is the development obstacle among 3E objectives. 
-Dynamic characteristics and mal-distribution problem should earn more attention when optimizing storage system in CCHP. 
-For the system control aspects, the baseline control strategy of load-following method as well as optimum control 
-under real-time data and uncertainty condition are discussed. The intermittent feature of renewable energy should be 
-considered at system control stage with uncertainty study. Uncertainty inside of energy demands, subsystems performance 
-and market price should be investigated at the same time during control stage. Overall, this review paper can be used as 
-an optimization reference and guidance for optimum CCHP system design and control.
+The optimized control of variable refrigerant flow (VRF) system requires an accurate time series forecast model for power consumption. Currently, physics-based and black-box models widely used for forecasting power consumption may not be able to capture the dynamic and non-linear behavior of such complex systems. This study presents a long-short-term memory (LSTM), deep learning-based model to accurately predict the power consumption of a VRF system with heat recovery units. The model training used one year of VRF system field test data. The feature selection through the Pearson correlation coefficient was implemented to improve the model’s accuracy and computational efficiency. The sensitivity analysis of feature selection was performed by preparing three feature sets, including different levels of relationship with the predicted target. Additionally, the hyperparameters of the models were optimized by Bayesian optimization with the Tree-structured Parzen Estimator algorithm. The deep learning model, LSTM model, was compared to the baseline machine learning model, Artificial Neural Network (ANN) and decision tree. The results show that LSTM-30feat with input time step 4 has the best testing performance of Coefficient of the Variation of the Root Mean Square Error (CvRMSE) 23.3%. The best ANN model is ANN-10feat with input time step 8, which has a CvRMSE of 27.8% in testing and 13,569 trainable parameters. However, LSTM-10feat with input time step 4 has the CvRMSE of 24.8% in testing, and the trainable parameters are 1,809. A higher number of trainable parameters in models might result in increased memory usage on the computer and be computationally expensive.
 
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S1364032119305520)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0140700724003591)
 
 Recommended citation: Gao, Lei, Yunho Hwang, and Tao Cao. "An overview of optimization technologies applied in combined cooling, 
 heating and power systems." Renewable and Sustainable Energy Reviews 114 (2019): 109344.
