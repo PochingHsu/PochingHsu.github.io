@@ -80,9 +80,9 @@ Projects
 
 Skills
 ======
-* **Programming language**: Python, Matlab, EES, GAMS, Julia
-* **Software**: AutoCAD, SolidWorks, LabVIEW, TRNSYS, EnergyPlus, CoilDesigner, Ansys, BCVTB
-* **Machine Learning**: GNN, deepGPR, seq2seq, CNN, LSTM, XGBoost, SVM, GPR
+* **Programming language**: Python, Matlab, EES, C
+* **Software**: SolidWorks, LabVIEW, EnergyPlus, CoilDesigner, VapCyc, Flotherm, Ansys Icepak/Fluent
+* **Machine Learning**: PyTorch, TensorFlow, Keras, Sklearn
 
 ---
 
