@@ -33,7 +33,7 @@ Projects
 (in active, independent) <br>
   - Developed LSTM-based deep learning model for power consumption prediction of VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT.
   - Applied Bayesian optimization for hyperparameter tuning of the data-driven model, achieving optimized hyperparameters in less time compared to the grid search method.
-  - Investigated the impact of input time steps and feature sets on model accuracy using statistical methods.
+  - Analyzed the impact of time delays and features on model accuracy using statistical methods, identifying the optimal time delays and features to improve model performance.
 * **Investigating air maldistribution influence on the performance of heat pumps** <br>
 (completed, 2024, independent) <br>
 
