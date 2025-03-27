@@ -2,7 +2,7 @@
 title: "A Novel Hybrid Actuator Driven Magnetically in the Bi-Cell PEM Fuel Cell Stack"
 collection: publications
 permalink: /publication/2017-10-01-paper-title-number-5
-excerpt: 'This paper is about analyzing robustness of optimized system configurations via parametric study'
+excerpt: 'This study develops an air breathing pump driven by a piezoelectric actuator for a proton exchange membrane fuel cell (PEMFC) stack.'
 date: 2017-10-01
 venue: 'Metals'
 paperurl: 'https://www.mdpi.com/2075-4701/7/11/453'
