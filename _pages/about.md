@@ -43,11 +43,10 @@ Projects
   - Investigated the oil retention behavior of R454B systems through experimental analysis.
 * **A bi-cell proton exchange membrane fuel cell stack with a magnetically driven piezoelectric actuator** <br>
 (completed, 2017, independent) <br>
-  - Developed a piezoelectric air-breathing pump for a PEM fuel cell stack, increasing power flux by 20%,
-reducing volume by 68%, and weight by 76%
+  - Developed a piezoelectric air-breathing pump for a PEM fuel cell stack, increasing power flux by 20%, reducing volume by 68%, and weight by 76%
 * **Impinging micro channels of dielectric fluid for chip cooling** <br>
 (completed, 2015, independent) <br>
-
+  - Developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling, including CFD simulations to analyze flow fields of various jet orifice dimensions.
 ---
 
 Skills
