@@ -36,7 +36,9 @@ Projects
   - Analyzed the impact of time delays and features on model accuracy using statistical methods, identifying the optimal time delays and features to improve model performance.
 * **Investigating air maldistribution influence on the performance of heat pumps** <br>
 (completed, 2024, independent) <br>
-
+  - Developed machine learning-based CFD surrogate models for predicting A-Coil air velocity profiles, achieving RMSEs of 0.046 for interpolation and 0.092 for extrapolation.
+  - The predicted air velocity profiles were integrated into in-house HVAC system modeling software, achieving a difference of ±20% between simulation and test data.
+  - Results showed that performance deterioration due to air maldistribution can reach up to 6.3% in capacity and 10.1% in COP.
 * **Performance impact evaluation of OCR and SLHX for low GWP refrigerant** <br>
 (completed, 2024, independent) <br>
   - Examined the performance enhancement using a suction line heat exchanger (SLHX) in R454B systems through numerical and experimental analysis.
