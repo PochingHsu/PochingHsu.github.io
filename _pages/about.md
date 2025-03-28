@@ -80,8 +80,13 @@ Media Features
 
 Others
 ======
+- **Awards**:
+  - *Distinguished Graduate Endowed Fellowship for Energy Innovation* (2023)
+  - *Undergraduate Research Award* (2015)
+  - *Hitachi Air Conditioning Scholarship* (2014)
 - **Membership**: *ASHRAE, Student Member*<br>
 - **Certification**: *EPA Certified Universal Technician per Section 608 of Clean Air Act*
+
 
 ---
 
