@@ -62,7 +62,7 @@ Skills
 
 Work Experience
 ======
-- **Thermal Engineer - Server in Data Center** at Foxconn Technology Group - Fii (2017-2021)
+- **Thermal Engineer - Data Center Server** at Foxconn Technology Group - Fii (2017-2021)
 
 ---
 
