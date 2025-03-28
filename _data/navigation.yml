@@ -20,5 +20,5 @@ main:
   - title: "CV"
     url: /files/Resume_POCHING_HSU_02042025.pdf
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Github"
+    url: https://github.com/PochingHsu

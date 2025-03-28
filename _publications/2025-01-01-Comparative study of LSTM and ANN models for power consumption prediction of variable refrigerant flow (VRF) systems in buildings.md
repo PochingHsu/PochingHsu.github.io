@@ -5,7 +5,7 @@ permalink: /publication/2025-01-01-paper-title-number-1
 excerpt: 'This paper is about deep learning models for variable refrigerant flow (VRF) systems in buildings'
 date: 2025-01-01
 venue: 'International Journal of Refrigeration'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S1364032119305520'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0140700724003591'
 citation: 'Hsu, Po-Ching, Lei Gao, and Yunho Hwang. 2025. “Comparative Study of LSTM and ANN Models for Power Consumption Prediction of Variable Refrigerant Flow (VRF) Systems in Buildings.” International Journal of Refrigeration 169 (January):55–68. https://doi.org/10.1016/j.ijrefrig.2024.10.020.'
 ---
 #### Abstract
