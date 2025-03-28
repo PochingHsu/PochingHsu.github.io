@@ -21,9 +21,9 @@ My research focuses on deep learning and machine learning modeling for HVAC syst
 
 Education
 ======
-- Ph.D. in ME, University of Maryland, College Park, USA (2026, expected)
-- M.S. in ME, National Taiwan University, Taipei City, Taiwan (2017)
-- B.S. in ERACE, National Taipei University of Technology, Taipei City, Taiwan (2015)
+- Ph.D. in ME, University of Maryland, College Park, USA (2021-2026, expected)
+- M.S. in ME, National Taiwan University, Taipei City, Taiwan (2015-2017)
+- B.S. in ERACE, National Taipei University of Technology, Taipei City, Taiwan (2011-2015)
 
 ---
 
@@ -57,6 +57,12 @@ Skills
 * **Programming language**: Python, Matlab, EES, C
 * **Software**: SolidWorks, Creo, LabVIEW, EnergyPlus, CoilDesigner, VapCyc, Flotherm, Ansys Icepak/Fluent
 * **Machine Learning**: PyTorch, TensorFlow, Keras, Sklearn
+
+---
+
+Work Experience
+======
+- **Thermal Engineer - Server in Data Center** at Foxconn Technology Group - Fii (2017-2021)
 
 ---
 
