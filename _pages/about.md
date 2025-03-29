@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 I am Po-Ching Hsu, a Ph.D. student in the Department of Mechanical Engineering at the University of Maryland, College Park.
-I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
-[Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
+I'm supervised by [Dr. Reinhard Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
+[Dr. Yunho Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
 <br/>
 <br/>
 My research focuses on deep learning and machine learning modeling for HVAC systems, smart buildings, and variable refrigerant flow (VRF) systems. My Ph.D. thesis is *Experimental Investigation and Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
@@ -34,7 +34,7 @@ Projects
   - Developed a LSTM-based deep learning model for power consumption prediction of a VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT.
   - Applied Bayesian optimization for hyperparameter tuning, reducing optimization time compared to grid search.
   - Analyzed the impact of time delays and features on model accuracy using statistical methods, identifying the optimal time delays and features to improve model performance.
-* **Investigating the influence of air maldistribution on the performance of heat pumps** <br>
+* [**Investigating the influence of air maldistribution on the performance of heat pumps**](https://pochinghsu.github.io/portfolio/air_maldistribution_acoil/)<br>
 (completed, 2024, independent) <br>
   - Developed machine learning-based CFD surrogate models for predicting A-Coil air velocity profiles, achieving RMSEs of 0.046 for interpolation and 0.092 for extrapolation.
   - The predicted air velocity profiles were integrated into in-house HVAC system modeling software, resulting in a ±20% difference between simulation and test data.
