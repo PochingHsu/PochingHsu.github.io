@@ -4,8 +4,7 @@ excerpt: "Here I'm trying to show the experimental and numerical study results o
 collection: portfolio
 ---
 
-This is a bar plot transfer from [Lawrence Livermore National Lab](https://flowcharts.llnl.gov/) shows energy flow change
-from primary energy to end user, which indicates the consumption from building sector. It takes a stable share of 40% of 
-all energy consumption.<br/><img src='/images/energy_flow18.svg'> <br/>
+The figure below illustrates the geometry of the microchannel heat sink in both the CFD model (symmetry) and the physical device.<br/>
+<img src='/images/MH CAD.jpeg'> <br/>
 This is the CFD simulation result of a 5-0.24-1.5 microchannel heatsink. <br/>
 <img src='/images/MH CFD(2).jpeg'>
