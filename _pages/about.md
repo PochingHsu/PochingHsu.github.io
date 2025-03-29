@@ -46,7 +46,7 @@ Projects
 * **A bi-cell proton exchange membrane (PEM) fuel cell stack with a magnetically driven piezoelectric actuator** <br>
 (completed, 2017, independent) <br>
   - Developed a piezoelectric air-breathing pump for a PEM fuel cell stack, increasing power flux by 20%, reducing volume by 68%, and reducing weight by 76%.
-* [**An experimental and numerical study of impinging microchannels of dielectric fluid for chip cooling**](https://pochinghsu.github.io/portfolio/energy_demand_analysis/)<br>
+* [**An experimental and numerical study of impinging microchannels of dielectric fluid for chip cooling**](https://pochinghsu.github.io/portfolio/impinging_microchannels_cooling/)<br>
 (completed, 2015, collaborative) <br>
   - Developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling and conducted CFD simulations to analyze flow fields with various jet orifice dimensions.
 
