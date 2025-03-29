@@ -8,3 +8,5 @@ The figure below illustrates the geometry of the microchannel heat sink in both 
 <img src='/images/MH CAD.jpeg'> <br/>
 This is the CFD simulation result of a 5-0.24-1.5 microchannel heatsink. <br/>
 <img src='/images/MH CFD(2).jpeg'>
+The figure below presents the thermal resistance vs. heat rate and the heat transfer coefficient vs. heat flux for various microchannel heatsinks under different flow rates. <br/>
+<img src='/images/MH Results.jpeg'>
