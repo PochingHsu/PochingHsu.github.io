@@ -4,7 +4,7 @@ excerpt: "Here I'm trying to show the experimental and numerical study results o
 collection: portfolio
 ---
 Authors: Po-Ching Hsu, Bo-Jie Wen<br/>
-Project advisor: [Liang-Han Chien](https://erac.ntut.edu.tw/p/412-1064-1618.php?Lang=en)<br/>
+Project advisor: [Dr. Liang-Han Chien](https://erac.ntut.edu.tw/p/412-1064-1618.php?Lang=en)<br/>
 In this study, we developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling and conducted CFD simulations to analyze flow fields with various jet orifice dimensions. The figure below illustrates the geometry of the microchannel heatsink in both the CFD model (symmetry) and the physical device.<br/>
 <img src='/images/MH CAD.jpeg'> <br/>
 This is the CFD simulation result of a 5-0.24-1.5 microchannel heatsink. <br/>
