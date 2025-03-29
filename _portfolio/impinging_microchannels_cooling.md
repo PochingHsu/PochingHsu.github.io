@@ -3,7 +3,7 @@ title: "An experimental and numerical study of impinging microchannels of dielec
 excerpt: "Here I'm trying to show the experimental and numerical study results of the microchannels heatsink for chip cooling."
 collection: portfolio
 ---
-In this study, we developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling and conducted CFD simulations to analyze flow fields with various jet orifice dimensions. The figure below illustrates the geometry of the microchannel heat sink in both the CFD model (symmetry) and the physical device.<br/>
+In this study, we developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling and conducted CFD simulations to analyze flow fields with various jet orifice dimensions. The figure below illustrates the geometry of the microchannel heatsink in both the CFD model (symmetry) and the physical device.<br/>
 <img src='/images/MH CAD.jpeg'> <br/>
 This is the CFD simulation result of a 5-0.24-1.5 microchannel heatsink. <br/>
 <img src='/images/MH CFD(2).jpeg'>
