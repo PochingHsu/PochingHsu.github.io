@@ -8,4 +8,4 @@ This is a bar plot transfer from [Lawrence Livermore National Lab](https://flowc
 from primary energy to end user, which indicates the consumption from building sector. It takes a stable share of 40% of 
 all energy consumption.<br/><img src='/images/energy_flow18.svg'> <br/>
 This is the CFD simulation result of a 5-0.24-1.5 microchannel heatsink. <br/>
-<img src='/images/MH CFD(1).jpeg'>
+<img src='/images/MH CFD(2).jpeg'>
