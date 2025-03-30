@@ -43,7 +43,7 @@ Projects
 (completed, 2024, independent) <br>
   - Examined the performance enhancement using a suction line heat exchanger (SLHX) in R454B systems through numerical and experimental analysis.
   - Investigated the oil retention behavior of R454B systems through experimental analysis.
-* **A bi-cell proton exchange membrane (PEM) fuel cell stack with a magnetically driven piezoelectric actuator** <br>
+* [**A bi-cell proton exchange membrane (PEM) fuel cell stack with a magnetically driven piezoelectric actuator**](https://pochinghsu.github.io/portfolio/PEMFC/) <br>
 (completed, 2017, independent) <br>
   - Developed a piezoelectric air-breathing pump for a PEM fuel cell stack, increasing power flux by 20%, reducing volume by 68%, and reducing weight by 76%.
 * [**An experimental and numerical study of impinging microchannels of dielectric fluid for chip cooling**](https://pochinghsu.github.io/portfolio/impinging_microchannels_cooling/)<br>
