@@ -29,7 +29,7 @@ Education
 
 Projects
 ======
-* **VRF systems field testing & data-driven model development** <br>
+* [**VRF systems field testing & data-driven model development**](https://pochinghsu.github.io/portfolio/VRF/) <br>
 (active, independent) <br>
   - Developed a LSTM-based deep learning model for power consumption prediction of a VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT.
   - Applied Bayesian optimization for hyperparameter tuning, reducing optimization time compared to grid search.
