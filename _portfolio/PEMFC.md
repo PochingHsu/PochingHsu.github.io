@@ -8,6 +8,7 @@ Project advisor: [Dr. Hsiaokang Ma](http://www.me.ntu.edu.tw/main.php?mod=adv_cu
 In this study, I developed a piezoelectric (PZT) air-breathing pump for a PEM fuel cell (PEMFC) stack. The figure below illustrates the working mechanism of the PZT pump alongside the CFD simulation. A nozzle/diffuser design enables unidirectional flow, ensuring adequate air supply to the fuel cell stack.<br/>
 <img src='/images/PEMFC_github.gif'> <br/>
 The figure below shows the exploded diagram of PEMFC stack and the physical PEMFC stack. <br/>
-<img src='/images/PEMFC.jpeg'> <br/>
+<img src='/images/PEMFC (1).jpeg'> <br/>
 The figure below presents the I-V and I-P curve of the PEMFC stack <br/>
-<img src='/images/PEMFC.jpeg'>
+<img src='/images/PEMFC_Results.jpeg'>
+For more details, please refer to our [paper-1](https://pochinghsu.github.io/publication/2017-10-01-paper-title-number-5), [paper-2](https://pochinghsu.github.io/publication/2017-07-27-paper-title-number-5)
