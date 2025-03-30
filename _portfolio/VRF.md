@@ -9,3 +9,5 @@ In this study, I developed a LSTM model for power consumption prediction of a VR
 <img src='/images/VRF.jpeg'><br/>
 As shown below, LSTM outperforms ANN in VRF power prediction (CvRMSE: 23% vs. 28%) by effectively capturing time-series dependencies. It also demonstrates better tolerance to data scarcity, improving model accuracy with limited data. <br/>
 <img src='/images/VRF_Results.jpeg'><br/>
+<br/>
+For more details, please refer our [paper](https://pochinghsu.github.io/publication/2025-01-01-paper-title-number-1) 
