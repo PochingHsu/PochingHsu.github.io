@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am Po-Ching Hsu, a Ph.D. student at Mechanical Engineering Department of Univeristy of Maryland, College Park. 
-I'm supervised by [Dr. Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
-[Dr. Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
+I am Po-Ching Hsu, a Ph.D. student in the Department of Mechanical Engineering at the University of Maryland, College Park.
+I'm supervised by [Dr. Reinhard Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
+[Dr. Yunho Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
 <br/>
 <br/>
-My research focuses on deep learning and machine learning modeling for HVAC systems, smart building, and variable refrigerant flow (VRF) systems. My Ph.D. thesis is *Experimental Investigation and Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
+My research focuses on deep learning and machine learning modeling for HVAC systems, smart buildings, and variable refrigerant flow (VRF) systems. My Ph.D. thesis is *Experimental Investigation and Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
 
 <br/><img src='/images/Website (1).jpeg'> <br/>
 
@@ -21,34 +21,34 @@ My research focuses on deep learning and machine learning modeling for HVAC syst
 
 Education
 ======
-- Ph.D. in ME, University of Maryland, College Park, USA (2026, expected)
-- M.S. in ME, National Taiwan University, Taipei City, Taiwan (2017)
-- B.S. in ERACE, National Taipei University of Technology, Taipei City, Taiwan (2015)
+- Ph.D. in ME, University of Maryland, College Park, USA (2021-2026, expected)
+- M.S. in ME, National Taiwan University, Taipei City, Taiwan (2015-2017)
+- B.S. in ERACE, National Taipei University of Technology, Taipei City, Taiwan (2011-2015)
 
 ---
 
 Projects
 ======
 * **VRF systems field testing & data-driven model development** <br>
-(in active, independent) <br>
-  - Developed LSTM-based deep learning model for power consumption prediction of VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT.
-  - Applied Bayesian optimization for hyperparameter tuning of the data-driven model, achieving optimized hyperparameters in less time compared to the grid search method.
+(active, independent) <br>
+  - Developed a LSTM-based deep learning model for power consumption prediction of a VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT.
+  - Applied Bayesian optimization for hyperparameter tuning, reducing optimization time compared to grid search.
   - Analyzed the impact of time delays and features on model accuracy using statistical methods, identifying the optimal time delays and features to improve model performance.
-* **Investigating air maldistribution influence on the performance of heat pumps** <br>
+* [**Investigating the influence of air maldistribution on the performance of heat pumps**](https://pochinghsu.github.io/portfolio/air_maldistribution_acoil/)<br>
 (completed, 2024, independent) <br>
   - Developed machine learning-based CFD surrogate models for predicting A-Coil air velocity profiles, achieving RMSEs of 0.046 for interpolation and 0.092 for extrapolation.
-  - The predicted air velocity profiles were integrated into in-house HVAC system modeling software, achieving a difference of ±20% between simulation and test data.
+  - The predicted air velocity profiles were integrated into in-house HVAC system modeling software, resulting in a ±20% difference between simulation and test data.
   - Results showed that performance deterioration due to air maldistribution can reach up to 6.3% in capacity and 10.1% in COP.
-* **Performance impact evaluation of OCR and SLHX for low GWP refrigerant** <br>
+* **Performance impact evaluation of OCR and SLHX for low-GWP refrigerants** <br>
 (completed, 2024, independent) <br>
   - Examined the performance enhancement using a suction line heat exchanger (SLHX) in R454B systems through numerical and experimental analysis.
   - Investigated the oil retention behavior of R454B systems through experimental analysis.
-* **A bi-cell proton exchange membrane fuel cell stack with a magnetically driven piezoelectric actuator** <br>
+* **A bi-cell proton exchange membrane (PEM) fuel cell stack with a magnetically driven piezoelectric actuator** <br>
 (completed, 2017, independent) <br>
-  - Developed a piezoelectric air-breathing pump for a PEM fuel cell stack, increasing power flux by 20%, reducing volume by 68%, and weight by 76%
-* **Impinging micro channels of dielectric fluid for chip cooling** <br>
-(completed, 2015, independent) <br>
-  - Developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling, including CFD simulations to analyze flow fields of various jet orifice dimensions.
+  - Developed a piezoelectric air-breathing pump for a PEM fuel cell stack, increasing power flux by 20%, reducing volume by 68%, and reducing weight by 76%.
+* [**An experimental and numerical study of impinging microchannels of dielectric fluid for chip cooling**](https://pochinghsu.github.io/portfolio/impinging_microchannels_cooling/)<br>
+(completed, 2015, collaborative) <br>
+  - Developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling and conducted CFD simulations to analyze flow fields with various jet orifice dimensions.
 
 ---
 
@@ -60,14 +60,20 @@ Skills
 
 ---
 
+Work Experience
+======
+- **Thermal Engineer - Data Center Server** at Foxconn Technology Group - Fii (2017-2021)
+
+---
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ### Under review
-- Po-Ching Hsu, Lei Gao, Yunho Hwang, Reinhard Radermacher. "A review of the state-of-the-art data-driven modeling of building HVAC systems." Energy & Buildings.
+- **Hsu, Po-Ching**, Lei Gao, Yunho Hwang, Reinhard Radermacher. "A review of the state-of-the-art data-driven modeling of building HVAC systems." Energy & Buildings.
 
 ---
 
