@@ -2,7 +2,7 @@
 title: "A review of the state-of-the-art data-driven modeling of building HVAC systems"
 collection: publications
 permalink: /publication/2025-05-13-paper-title-number-1
-excerpt: 'This paper is about deep learning models for variable refrigerant flow (VRF) systems in buildings'
+excerpt: ' '
 date: 2025-05-13
 venue: 'Energy & Buildings'
 paperurl: ' '
