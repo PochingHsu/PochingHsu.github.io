@@ -1,5 +1,5 @@
 ---
-title: "A review of the state-of-the-art data-driven modeling of building HVAC systems"
+title: "A review of the state-of-the-art data-driven modeling of building HVAC systems (accepted by journal)"
 collection: publications
 permalink: /publication/2025-05-13-paper-title-number-1
 excerpt: ' '
