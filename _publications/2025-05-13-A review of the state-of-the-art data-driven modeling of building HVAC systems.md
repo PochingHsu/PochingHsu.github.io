@@ -6,7 +6,7 @@ excerpt: 'This paper reviewed the state-of-the-art data-driven modeling of build
 date: 2025-05-13
 venue: 'Energy & Buildings'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0378778825006115'
-citation: 'P-C. Hsu, L. Gao, Y. Hwang, R. Radermacher, A review of the state-of-the-art data-driven modeling of building HVAC systems, Energy & Buildings (2025), doi: https://doi.org/10.1016/j.enbuild. 2025.115881'
+citation: 'Hsu, Po-Ching, Lei Gao, Yunho Hwang, and Reinard Radermacher. 2025. "A review of the state-of-the-art data-driven modeling of building HVAC systems." Energy and Buildings. https://doi.org/10.1016/j.enbuild.2025.115881'
 ---
 #### Abstract
 An accurate model for a building's HVAC system plays an essential role in providing thermal comfort for the building while maintaining efficiency. Recent advancements in artificial intelligence, along with the development of tools in various programming languages and platforms, enable researchers to quickly implement these technologies to tackle challenges across different engineering fields. For building energy system modeling, machine learning (ML) and deep learning (DL) models are gaining attention due to their high accuracy and less modeling effort than physics-based white-box models. However, the data-driven model is less robust than the physicsbased model due to the lack of physical interpretation. Therefore, a comprehensive review to summarize the latest progress of data-driven approaches in building energy systems is needed. This study addresses the limitation of the early review by 1) performing a comprehensive review of recent advancements in data-driven approaches for building HVAC systems modeling and
