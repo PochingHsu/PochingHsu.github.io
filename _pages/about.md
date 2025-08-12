@@ -21,9 +21,9 @@ My research focuses on deep learning and machine learning modeling for HVAC syst
 
 Education
 ======
-- Ph.D. in ME, University of Maryland, College Park, USA (2021-2026, expected)
-- M.S. in ME, National Taiwan University, Taipei City, Taiwan (2015-2017)
-- B.S. in ERACE, National Taipei University of Technology, Taipei City, Taiwan (2011-2015)
+- Ph.D. in ME, University of Maryland, College Park, USA (Expected May 2026)
+- M.S. in ME, National Taiwan University, Taipei City, Taiwan (June 2017)
+- B.S. in ERACE, National Taipei University of Technology, Taipei City, Taiwan (June 2015)
 
 ---
 
@@ -54,9 +54,11 @@ Projects
 
 Skills
 ======
-* **Programming language**: Python, Matlab, EES, C
-* **Software**: SolidWorks, Creo, LabVIEW, EnergyPlus, CoilDesigner, VapCyc, Flotherm, Ansys Icepak/Fluent
-* **Machine Learning**: PyTorch, TensorFlow, Keras, Sklearn
+* **Thermal & CFD Simulation**: Flotherm, ANSYS Icepak, ANSYS Fluent
+* **CAD & Design**: Pro/ENGINEER (Creo), SOLIDWORKS
+* **Energy System Modeling**: EnergyPlus, CoilDesigner, VapCyc
+* **Programming & Scripting**: Python, MATLAB, EES, C, LabVIEW
+* **Machine Learning**: PyTorch, TensorFlow, Keras, Scikit-learn
 
 ---
 
@@ -88,11 +90,13 @@ Media Features
 Others
 ======
 - **Awards**:
-  - *Distinguished Graduate Endowed Fellowship for Energy Innovation* (2023)
-  - *Undergraduate Research Award* (2015)
-  - *Hitachi Air Conditioning Scholarship* (2014)
-- **Membership**: *ASHRAE, Student Member*<br>
-- **Certification**: *EPA Certified Universal Technician per Section 608 of Clean Air Act*
+  - *Jacob K. Goldhaber Travel Grant*, University of Maryland, May 2025
+  - *Distinguished Graduate Endowed Fellowship for Energy Innovation*, University of Maryland, Mar. 2023
+  - *Best Undergraduate Capstone Project Award*, Taiwan Society of Heating Refrigerating and Air-Conditioning Engineers, Apr. 2015
+  - *Hitachi Air Conditioning Scholarship*, Hitachi Air Conditioning Taiwan Co., Ltd., May 2014
+- **Reviewer**: *Paper Reviewer, 15th IEA Heat Pump Conference 2026, Vienna, Austria*<br>
+- **Membership**: *Student Member, ASHRAE*<br>
+- **Certification**: *EPA Certified Universal Technician, Section 608 of the Clean Air Act*
 
 
 ---
