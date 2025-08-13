@@ -96,8 +96,10 @@ Skills
 Others
 ======
 - **Awards**:
+  - Registration fee waiver and accommodation support as a selected participant (top 35% of 500+ applicants) for Deep Learning for Science School (Berkeley, CA), Lawrence Berkeley National Lab, June 2025
   - Jacob K. Goldhaber Travel Grant, University of Maryland, May 2025
   - Distinguished Graduate Endowed Fellowship for Energy Innovation, University of Maryland, Mar. 2023
+  - Full sponsorship (airfare and registration fee) for 2nd International Conference on Battery & Fuel Cell Technology (Rome, Italy), Taiwan’s National Science and Technology Council, July 2017
   - Best Undergraduate Capstone Project Award, Taiwan Society of Heating Refrigerating and Air-Conditioning Engineers, Apr. 2015
   - Hitachi Air Conditioning Scholarship, Hitachi Air Conditioning Taiwan Co., Ltd., May 2014
 - **Reviewer**: Paper Reviewer, 15th IEA Heat Pump Conference 2026, Vienna, Austria<br>
