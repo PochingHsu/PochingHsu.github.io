@@ -96,13 +96,13 @@ Recognition & Media
 Others
 ======
 - **Awards**:
-  - *Jacob K. Goldhaber Travel Grant*, University of Maryland, May 2025
-  - *Distinguished Graduate Endowed Fellowship for Energy Innovation*, University of Maryland, Mar. 2023
-  - *Best Undergraduate Capstone Project Award*, Taiwan Society of Heating Refrigerating and Air-Conditioning Engineers, Apr. 2015
-  - *Hitachi Air Conditioning Scholarship*, Hitachi Air Conditioning Taiwan Co., Ltd., May 2014
-- **Reviewer**: *Paper Reviewer, 15th IEA Heat Pump Conference 2026, Vienna, Austria*<br>
-- **Membership**: *Student Member, ASHRAE*<br>
-- **Certification**: *EPA Certified Universal Technician, Section 608 of the Clean Air Act*
+  - Jacob K. Goldhaber Travel Grant, University of Maryland, May 2025
+  - Distinguished Graduate Endowed Fellowship for Energy Innovation, University of Maryland, Mar. 2023
+  - Best Undergraduate Capstone Project Award, Taiwan Society of Heating Refrigerating and Air-Conditioning Engineers, Apr. 2015
+  - Hitachi Air Conditioning Scholarship, Hitachi Air Conditioning Taiwan Co., Ltd., May 2014
+- **Reviewer**: Paper Reviewer, 15th IEA Heat Pump Conference 2026, Vienna, Austria<br>
+- **Membership**: Student Member, ASHRAE<br>
+- **Certification**: EPA Certified Universal Technician, Section 608 of the Clean Air Act
 
 
 ---
