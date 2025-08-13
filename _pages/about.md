@@ -27,7 +27,7 @@ Education
 
 ---
 
-Projects
+Research Experience
 ======
 * [**VRF systems field testing & data-driven model development**](https://pochinghsu.github.io/portfolio/VRF/) <br>
 (active, independent) <br>
@@ -49,16 +49,6 @@ Projects
 * [**An experimental and numerical study of impinging microchannels of dielectric fluid for chip cooling**](https://pochinghsu.github.io/portfolio/impinging_microchannels_cooling/)<br>
 (completed, 2015, collaborative) <br>
   - Developed and tested an impinging microchannel heatsink using two-phase dielectric fluid (FC-72) for efficient chip cooling and conducted CFD simulations to analyze flow fields with various jet orifice dimensions.
-
----
-
-Skills
-======
-* **Thermal & CFD Simulation**: Flotherm, ANSYS Icepak, ANSYS Fluent
-* **CAD & Design**: Pro/ENGINEER (Creo), SOLIDWORKS
-* **Energy System Modeling**: EnergyPlus, CoilDesigner, VapCyc
-* **Programming & Scripting**: Python, MATLAB, EES, C, LabVIEW
-* **Machine Learning**: PyTorch, TensorFlow, Keras, Scikit-learn
 
 ---
 
@@ -90,6 +80,16 @@ Recognition & Media
 - **International Journal of Refrigeration** – Most downloaded paper in the journal in 90 days (Mar. 2025).
 - **Featured in Time magazine article: "How AI Is Making Buildings More Energy-Efficient"** (Dec. 11, 2024), for my research on leveraging AI to reduce energy consumption in building HVAC systems, contributing to advancements in energy efficiency and sustainability. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
 - **Featured in Maryland Today: "AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test"** (Nov. 7, 2024). [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
+
+---
+
+Skills
+======
+* **Thermal & CFD Simulation**: Flotherm, ANSYS Icepak, ANSYS Fluent
+* **CAD & Design**: Pro/ENGINEER (Creo), SOLIDWORKS
+* **Energy System Modeling**: EnergyPlus, CoilDesigner, VapCyc
+* **Programming & Scripting**: Python, MATLAB, EES, C, LabVIEW
+* **Machine Learning**: PyTorch, TensorFlow, Keras, Scikit-learn
 
 ---
 
