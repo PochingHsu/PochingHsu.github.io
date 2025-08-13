@@ -64,7 +64,7 @@ Skills
 
 Work Experience
 ======
-- **Thermal Engineer - Data Center Server**, Foxconn Technology Group, New Taipei, Taiwan (Nov. 2017 - Mar. 2021)
+- **Thermal Engineer**, Foxconn Technology Group, New Taipei, Taiwan (Nov. 2017 - Mar. 2021)
   - Developed thermal solutions for component- and server-level products over 3 years, including GPU servers, HPC servers, edge servers, storage servers, AI accelerator cards and autonomous vehicle control box
   - **Qualcomm AI Accelerator Cards (projected for 1M annual sales)** – Designed and optimized a vapor chamber heatsink by CFD and prototype testing, reducing thermal resistance by 12% and increasing thermal budget of major chipsets by 5 °C under strict design constraints
   - **High-Density Storage Server (EBOF) Thermal Optimization** – Improved thermal budget of critical components by 5 °C under fan redundancy through CFD-optimized air duct design and prototyping, within manufacturing and installation limits
@@ -87,9 +87,9 @@ Publications
 
 Recognition & Media
 ======
-- International Journal of Refrigeration – Most downloaded paper in the journal in 90 days (Mar. 2025).
-- <em>Featured in Time magazine article: "How AI Is Making Buildings More Energy-Efficient"</em> (Dec. 11, 2024), for my research on leveraging AI to reduce energy consumption in building HVAC systems, contributing to advancements in energy efficiency and sustainability. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
-- <em>Featured in Maryland Today, "AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test"</em> (Nov. 7, 2024). [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
+- **International Journal of Refrigeration** – Most downloaded paper in the journal in 90 days (Mar. 2025).
+- **Featured in Time magazine article: "How AI Is Making Buildings More Energy-Efficient"** (Dec. 11, 2024), for my research on leveraging AI to reduce energy consumption in building HVAC systems, contributing to advancements in energy efficiency and sustainability. [Link to Article](https://time.com/7201501/ai-buildings-energy-efficiency/)
+- **Featured in Maryland Today: "AI Face-off: Researchers Pit Old AI Tech vs. New in HVAC Efficiency Test"** (Nov. 7, 2024). [Link to Article](https://today.umd.edu/briefs/ai-face-off-researchers-pit-old-ai-tech-vs-new-in-hvac-efficiency-test)
 
 ---
 
