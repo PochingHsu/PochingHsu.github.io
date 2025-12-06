@@ -21,9 +21,12 @@ My research focuses on deep learning and machine learning modeling for HVAC syst
 
 Education
 ======
-- Ph.D. in Mechanical Engineering, University of Maryland, College Park, USA (Expected May 2026)
-- M.S. in Mechanical Engineering, National Taiwan University, Taipei City, Taiwan (June 2017)
-- B.S. in Energy and Refrigerating Air-Conditioning Engineering, National Taipei University of Technology, Taipei City, Taiwan (June 2015)
+- Ph.D. in Mechanical Engineering
+  - University of Maryland, College Park, Maryland, USA (Expected May 2026)
+- M.S. in Mechanical Engineering
+  - National Taiwan University, Taipei, Taiwan (June 2017)
+- B.S. in Energy and Refrigerating Air-Conditioning Engineering
+  - National Taipei University of Technology, Taipei, Taiwan (June 2015)
 
 ---
 
