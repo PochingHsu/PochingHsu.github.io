@@ -21,11 +21,11 @@ My research focuses on deep learning and machine learning modeling for HVAC syst
 
 Education
 ======
-- Ph.D. in Mechanical Engineering
+- **Ph.D. in Mechanical Engineering**
   - University of Maryland, College Park, Maryland, USA (Expected May 2026)
-- M.S. in Mechanical Engineering
+- **M.S. in Mechanical Engineering**
   - National Taiwan University, Taipei, Taiwan (June 2017)
-- B.S. in Energy and Refrigerating Air-Conditioning Engineering
+- **B.S. in Energy and Refrigerating Air-Conditioning Engineering**
   - National Taipei University of Technology, Taipei, Taiwan (June 2015)
 
 ---
@@ -34,8 +34,8 @@ Research Experience
 ======
 * [**VRF systems field testing & data-driven model development**](https://pochinghsu.github.io/portfolio/VRF/) <br>
 (active, independent) <br>
-  - Developed a LSTM-based deep learning model for power consumption prediction of a VRF system, achieving higher accuracy (CvRMSE: 23.3%) compared to ANN and DT.
-  - Applied Bayesian optimization for hyperparameter tuning, reducing optimization time compared to grid search.
+  - Achieved 46% higher accuracy and 67% better physical consistency with a physics-informed VRF hybrid model, enabling an MPC framework in CasADi that cut energy use by 10% while maintaining comfort.
+  - Developed LSTM time-series models for VRF systems, achieving 87% model-size reduction and 11% accuracy improvement via Bayesian hyperparameter optimization, validated with field data.
   - Analyzed the impact of time delays and features on model accuracy using statistical methods, identifying the optimal time delays and features to improve model performance.
 * [**Investigating the influence of air maldistribution on the performance of heat pumps**](https://pochinghsu.github.io/portfolio/air_maldistribution_acoil/)<br>
 (completed, 2024, independent) <br>
