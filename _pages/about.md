@@ -32,7 +32,7 @@ Education
 
 Research Experience
 ======
-* [**VRF systems field testing & data-driven model development**](https://pochinghsu.github.io/portfolio/VRF/) <br>
+* [**VRF systems field testing & physics-informed hybrid modeling with model predictive control development**](https://pochinghsu.github.io/portfolio/VRF/) <br>
 (active, independent) <br>
   - Achieved 46% higher accuracy and 67% better physical consistency with a physics-informed VRF hybrid model, enabling an MPC framework in CasADi that cut energy use by 10% while maintaining comfort.
   - Developed LSTM time-series models for VRF systems, achieving 87% model-size reduction and 11% accuracy improvement via Bayesian hyperparameter optimization, validated with field data.
