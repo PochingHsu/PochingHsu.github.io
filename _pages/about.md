@@ -15,7 +15,7 @@ I'm supervised by [Dr. Reinhard Radermacher](https://energy.umd.edu/clark/facult
 <br/>
 My research focuses on deep learning and machine learning modeling for HVAC systems, smart buildings, and variable refrigerant flow (VRF) systems. My Ph.D. thesis is *Experimental Investigation and Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
 
-<br/><img src='/images/Website (1).jpeg'> <br/>
+<br/><img src='/images/schematic .jpeg'> <br/>
 
 ---
 
