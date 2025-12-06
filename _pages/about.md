@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Po-Ching Hsu, a Ph.D. candidate in the Department of Mechanical Engineering at the University of Maryland, College Park.
+I am Po-Ching Hsu, a Ph.D. candidate in Mechanical Engineering at the University of Maryland, College Park.
 I'm supervised by [Dr. Reinhard Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
 [Dr. Yunho Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
 <br/>
