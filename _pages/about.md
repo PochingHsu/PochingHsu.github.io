@@ -88,11 +88,13 @@ Recognition & Media
 
 Skills
 ======
-* **Thermal & CFD Simulation**: Flotherm, ANSYS Icepak, ANSYS Fluent
-* **CAD & Design**: Pro/ENGINEER (Creo), SOLIDWORKS
-* **Energy System Modeling**: EnergyPlus, CoilDesigner, VapCyc
+* **Heat Transfer & Fluids**: Heat transfer, thermodynamics, fluid mechanics, thermofluid system design & control
+* **CFD Software:**: ANSYS Fluent, ANSYS Icepak, Simcenter Flotherm
+* **Thermal System Modeling & Optimal Control**: Vapor-compression & heat exchanger modeling (EES, VapCyc, CoilDesigner, PHESim), BEM (EnergyPlus), and BAS optimal control (MPC, LQR, dynamic programming)
+* **Machine Learning & Digital Twins**: PyTorch, TensorFlow, Keras, Scikit-learn, time-series modeling, surrogate modeling, efficient hyperparameter tuning (Bayesian optimization), Physics-Informed Neural Networks
+* **CAD Software**: Pro/ENGINEER (Creo), SOLIDWORKS
 * **Programming & Scripting**: Python, MATLAB, EES, C, LabVIEW
-* **Machine Learning**: PyTorch, TensorFlow, Keras, Scikit-learn
+* **Lab Skills**: Thermal testing, DAQ system, sensor instrumentation & calibration, uncertainty analysis
 
 ---
 
