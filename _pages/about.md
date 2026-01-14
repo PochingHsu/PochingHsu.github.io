@@ -109,7 +109,7 @@ Others
   - Best Undergraduate Capstone Project Award, Taiwan Society of Heating Refrigerating and Air-Conditioning Engineers, Apr. 2015
   - Hitachi Air Conditioning Scholarship, Hitachi Air Conditioning Taiwan Co., Ltd., May 2014
 - **Paper Reviewer**:
-  - 15th IEA Heat Pump Conference 2026, Vienna, Austria
+  - 2026 ASHRAE Winter Conference, Las Vegas, NV, USA
   - 15th IEA Heat Pump Conference 2026, Vienna, Austria
   - 2025 IIR Conference on Thermophysical Properties and Transfer Processes of Refrigerants, College Park, Maryland, USA
 - **Membership**: Student Member, ASHRAE<br>
