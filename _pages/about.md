@@ -101,6 +101,7 @@ Skills
 Others
 ======
 - **Awards**:
+  - ASHRAE-National Capital Chapter Endowed Scholarship, University of Maryland, Dec. 2025 
   - Registration fee waiver and accommodation support as a selected participant (top 35% of 500+ applicants) for Deep Learning for Science School (Berkeley, CA), Lawrence Berkeley National Lab, June 2025
   - Jacob K. Goldhaber Travel Grant, University of Maryland, May 2025
   - Distinguished Graduate Endowed Fellowship for Energy Innovation, University of Maryland, Mar. 2023
