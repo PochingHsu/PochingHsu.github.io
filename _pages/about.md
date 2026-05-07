@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Po-Ching Hsu, a Ph.D. candidate in Mechanical Engineering at the University of Maryland, College Park.
+I am Po-Ching Hsu, a Ph.D. in Mechanical Engineering at the University of Maryland, College Park.
 I'm supervised by [Dr. Reinhard Radermacher](https://energy.umd.edu/clark/faculty/577/Reinhard-Radermacher) and 
 [Dr. Yunho Hwang](https://enme.umd.edu/clark/faculty/549/Yunho-Hwang) @ [Center for Environmental Energy Engineering (CEEE)](https://ceee.umd.edu/). 
 <br/>
@@ -22,7 +22,7 @@ My research focuses on physics-informed hybrid modeling and optimal control that
 Education
 ======
 - **Ph.D. in Mechanical Engineering**
-  - University of Maryland, College Park, Maryland, USA (Expected May 2026)
+  - University of Maryland, College Park, Maryland, USA (May 2026)
 - **M.S. in Mechanical Engineering**
   - National Taiwan University, Taipei, Taiwan (June 2017)
 - **B.S. in Energy and Refrigerating Air-Conditioning Engineering**
