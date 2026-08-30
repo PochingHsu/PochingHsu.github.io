@@ -10,4 +10,4 @@ In this study, I developed a physics-informed hybrid model to predict capacity d
 As shown below, the MPC optimization problem is formulated and solved using the developed data-driven VRF model and a nonlinear optimization tool (CasADi). The MPC results and Pareto-front analysis reveal the trade-off between energy consumption and thermal comfort (demand matching). <br/>
 <img src='/images/MPC VRF Results.jpeg'><br/>
 <br/>
-For more details, please refer to our [paper1](https://pochinghsu.github.io/publication/2025-01-01-paper-title-number-1), [paper2](https://pochinghsu.github.io/publication/2025-05-13-paper-title-number-1)
+For more details, please refer to our [paper1](https://pochinghsu.github.io/publication/2026-01-30-paper-title-number-1), [paper2](https://pochinghsu.github.io/publication/2025-01-01-paper-title-number-1)
