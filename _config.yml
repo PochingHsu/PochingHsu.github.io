@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Po-Ching Hsu / Ph.D. Candidate"
+title                    : "Po-Ching Hsu, Ph.D."
 title_separator          : "-"
 name                     : &name "Po-Ching Hsu"
 description              : &description "personal description"
@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Po-Ching Hsu"
   avatar           : "head_PH.JPEG"
-  bio              : "Research Assistant"
+  bio              : "Advanced R&D Engineer/Scientist"
                       #Ph.D. 2021, ME, UMCP, USA
                       #M.S.  2016, ME, XJTU, CHINA
                       #B.E.  2013, ME, XJTU, CHINA"
-  location         : "College Park, MD"
-  employer         : "University of Maryland"
+  location         : "Buffalo, NY"
+  employer         : "Solstice Advanced Materials"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UphYXJkAAAAJ&hl=en"
-  email            : "pchsu@umd.edu"
+  email            : "poching.hsu.eng@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Po-Ching-Hsu"
   uri              :
   bitbucket        :
