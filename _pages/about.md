@@ -57,6 +57,8 @@ Research Experience
 
 Work Experience
 ======
+- **Advanced R&D Engineer/Scientist**, Solstice Advanced Materials, Buffalo, NY (June 2026 - Present)
+- **Graduate Research Assistant**, Center for Environmental Energy Engineering, University of Maryland, College Park, MD (Aug. 2021 - May 2026)
 - **Thermal Engineer**, Foxconn Technology Group, New Taipei, Taiwan (Nov. 2017 - Mar. 2021)
   - Developed thermal solutions for component- and server-level products over 3 years, including GPU servers, HPC servers, edge servers, storage servers, AI accelerator cards and autonomous vehicle control box
   - **Qualcomm AI Accelerator Cards (projected for 1M annual sales)** – Designed and optimized a vapor chamber heatsink by CFD and prototype testing, reducing thermal resistance by 12% and increasing thermal budget of major chipsets by 5 °C under strict design constraints
@@ -88,13 +90,14 @@ Recognition & Media
 
 Skills
 ======
-* **Heat Transfer & Fluids**: Heat transfer, thermodynamics, fluid mechanics, thermofluid system design & control
-* **CFD Software:**: ANSYS Fluent, ANSYS Icepak, Simcenter Flotherm
-* **Thermal System Modeling & Optimal Control**: Vapor-compression & heat exchanger modeling (EES, VapCyc, CoilDesigner, PHESim), BEM (EnergyPlus), and BAS optimal control (MPC, LQR, dynamic programming)
-* **Machine Learning & Digital Twins**: PyTorch, TensorFlow, Keras, Scikit-learn, time-series modeling, surrogate modeling, efficient hyperparameter tuning (Bayesian optimization), Physics-Informed Neural Networks
-* **CAD Software**: Pro/ENGINEER (Creo), SOLIDWORKS
-* **Programming & Scripting**: Python, MATLAB, EES, C, LabVIEW
-* **Lab Skills**: Thermal testing, DAQ system, sensor instrumentation & calibration, uncertainty analysis
+* **Thermal & Fluid System Design**: Heat transfer, thermodynamics, fluid mechanics, air and liquid cooling, vapor-compression modeling (EES, VapCyc), heat exchanger modeling (CoilDesigner, PHESim), electronics thermal management
+* **CFD/CAD Software:**: ANSYS Fluent, ANSYS Icepak, OpenFOAM, Simcenter Flotherm, Pro/ENGINEER (Creo), SOLIDWORKS
+* **Lab Skills**: Test-rig design, thermal testing, data acquisition, prototyping, sensor instrumentation & calibration, uncertainty analysis
+* **Design Optimization & Optimal Control**: Design-of-experiments (DOE), Multivariable optimization, surrogate optimization, model predictive control (MPC), LQR, dynamic programming
+* **Programming & Data Analysis**: Python, MATLAB/Simulink, LabVIEW, C
+* **Machine Learning**: PyTorch, TensorFlow, Keras, Scikit-learn
+
+
 
 ---
 
