@@ -15,9 +15,9 @@ I'm supervised by [Dr. Reinhard Radermacher](https://energy.umd.edu/clark/facult
 <br/>
 <br/>
 My research focuses on physics-informed hybrid modeling and optimal control that integrates deep learning and machine learning methods with physics-based models and model predictive control (MPC) for HVAC systems, heat pumps, smart buildings, and variable refrigerant flow (VRF) systems, advancing intelligent, data-driven building automation systems (BAS). My Ph.D. thesis is *Experimental Investigation and Data-Driven Modeling for Variable Refrigerant Flow (VRF) Systems*. 
-
+<!--
 <br/><img src='/images/schematic .jpeg'> <br/>
-
+-->
 ---
 
 Education
