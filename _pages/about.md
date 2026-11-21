@@ -1,9 +1,10 @@
-<br/><img src='/images/LP2.jpeg'> <br/>
 ---
 permalink: /
 title: "Hi, I'm Po-Ching!"
 excerpt: "About me"
 author_profile: true
+header:
+  image: /images/LP2.jpeg
 redirect_from: 
   - /about/
   - /about.html
