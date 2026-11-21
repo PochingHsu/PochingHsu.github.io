@@ -4,7 +4,7 @@ title: "Hi, I'm Po-Ching!"
 excerpt: "About me"
 author_profile: true
 header:
-  image: LP2.jpeg
+  images: LP2.jpeg
 redirect_from: 
   - /about/
   - /about.html
