@@ -1,3 +1,4 @@
+<br/><img src='/images/LP2.jpeg'> <br/>
 ---
 permalink: /
 title: "Hi, I'm Po-Ching!"
