@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 header:
   image: LP2.jpeg
+  caption: "CFD of a diamond pin-fin cold plate — OpenFOAM, k-ω SST. [See project](/portfolio/coldplate/)"
 redirect_from: 
   - /about/
   - /about.html
